@@ -32,33 +32,40 @@
           "properties": [],
           "nested": [
             {
-              "type": "property",
-              "id": "385a0a1beb08",
-              "properties": [
-                "ac"
-              ],
-              "fallback": "-",
-              "markdown": true,
-              "dice": false,
-              "display": "Armor Class"
-            },
-            {
-              "type": "property",
-              "id": "28fafa8a097a",
-              "properties": [
-                "hd"
-              ],
-              "fallback": "-",
-              "display": "Hit Dice"
-            },
-            {
-              "type": "property",
-              "id": "1b399b59fb8a",
-              "properties": [
-                "thac0"
-              ],
-              "fallback": "-",
-              "display": "THAC0"
+              "type": "inline",
+              "id": "fb2beb79d9da",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "385a0a1beb08",
+                  "properties": [
+                    "ac"
+                  ],
+                  "fallback": "-",
+                  "markdown": true,
+                  "dice": false,
+                  "display": "AC"
+                },
+                {
+                  "type": "property",
+                  "id": "28fafa8a097a",
+                  "properties": [
+                    "hd"
+                  ],
+                  "fallback": "-",
+                  "display": "HD"
+                },
+                {
+                  "type": "property",
+                  "id": "1b399b59fb8a",
+                  "properties": [
+                    "thac0"
+                  ],
+                  "fallback": "-",
+                  "display": "THAC0"
+                }
+              ]
             },
             {
               "type": "property",
@@ -68,58 +75,6 @@
               ],
               "fallback": "-",
               "display": "Movement"
-            },
-            {
-              "type": "group",
-              "id": "d9eb09b90af8",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "table",
-                  "id": "9a6a8838cada",
-                  "properties": [
-                    "saves"
-                  ],
-                  "headers": [
-                    "D",
-                    "W",
-                    "P",
-                    "B",
-                    "S"
-                  ],
-                  "calculate": true,
-                  "fallback": "-",
-                  "modifier": "null"
-                }
-              ]
-            },
-            {
-              "type": "property",
-              "id": "3b49283818fa",
-              "properties": [
-                "morale"
-              ],
-              "fallback": "-",
-              "display": "Morale"
-            },
-            {
-              "type": "property",
-              "id": "e83bca6ab989",
-              "properties": [
-                "Alignment"
-              ],
-              "fallback": "-",
-              "display": "alignment",
-              "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "a91a392a0928",
-              "properties": [
-                "xp"
-              ],
-              "fallback": "-",
-              "display": "Experience Points"
             },
             {
               "type": "property",
@@ -140,8 +95,61 @@
               "fallback": "-",
               "display": "Treasure Type",
               "conditioned": true
+            },
+            {
+              "type": "inline",
+              "id": "7a88dab91968",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "3b49283818fa",
+                  "properties": [
+                    "morale"
+                  ],
+                  "fallback": "-",
+                  "display": "Morale"
+                },
+                {
+                  "type": "property",
+                  "id": "a91a392a0928",
+                  "properties": [
+                    "xp"
+                  ],
+                  "fallback": "-",
+                  "display": "Experience Points"
+                },
+                {
+                  "type": "property",
+                  "id": "e83bca6ab989",
+                  "properties": [
+                    "Alignment"
+                  ],
+                  "fallback": "-",
+                  "display": "alignment",
+                  "conditioned": true
+                }
+              ]
             }
           ]
+        },
+        {
+          "type": "table",
+          "id": "9a6a8838cada",
+          "properties": [
+            "saves"
+          ],
+          "headers": [
+            "D",
+            "W",
+            "P",
+            "B",
+            "S"
+          ],
+          "calculate": false,
+          "fallback": "-",
+          "modifier": "",
+          "conditioned": false
         },
         {
           "type": "traits",
