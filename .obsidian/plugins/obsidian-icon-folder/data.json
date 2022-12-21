@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiSpace",
+      "RiInkBottleLine",
+      "RiCloudyLine",
+      "RiLeafLine",
+      "RiMailLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Factions": "RiGroupLine",
+  "Bestiary": "RiSkull2Line",
+  "Dungeon Levels/00 - Citadel, Upper Level.md": "RiVipCrownLine",
+  "Dungeon Levels/01 - Citadel, Ground Level.md": "RiVipCrownLine",
+  "Dungeon Levels/02 - Citadel, Lower Level.md": "RiVipCrownLine",
+  "Dungeon Levels/03 - Proving Ground, Tests of Might.md": "RiSwordLine",
+  "Dungeon Levels/04 - Proving Ground, Tests of Magic.md": "RiSwordLine",
+  "Factions/The Claimant.md": "RiMailLine",
+  "Factions/The Court of Briars.md": "RiLeafLine",
+  "Factions/The Doomsingers.md": "RiCloudyLine",
+  "Factions/The Proto-Elves.md": "RiInkBottleLine",
+  "Factions/The Void.md": "RiSpace",
+  "Dungeon Levels/10 - The Void.md": "RiSpace",
+  "Readme.md": "RiListUnordered"
+}

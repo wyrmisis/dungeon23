@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "a6fe478a1493c867",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac8445d2a4999b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233c7dff101f9f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "487c965e2289cfe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b137b10e1ad28ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea3a7f45b0940a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f1b559750198ae5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "235960f43702b8dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d4747621a09d057",
+    "type": "split",
+    "children": [
+      {
+        "id": "825a629858a4cd3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62059f67bc09d28a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6737fb32fbde7e69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77bb8bb0b8c53d83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8eb178cfc3017a26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "233c7dff101f9f3d",
+  "lastOpenFiles": [
+    "Bestiary/Untitled.md",
+    "The Wider World/The Outpost.md",
+    "The Wider World/The Weald.md",
+    "Dungeon Levels/03 - Proving Ground, Tests of Might.md",
+    "Dungeon Levels/04 - Proving Ground, Tests of Magic.md",
+    "Dungeon Levels/10 - The Void.md",
+    "Dungeon Levels/02 - Citadel, Lower Level.md",
+    "Dungeon Levels/01 - Citadel, Ground Level.md",
+    "Readme.md",
+    "Factions/The Court of Briars.md"
+  ]
+}

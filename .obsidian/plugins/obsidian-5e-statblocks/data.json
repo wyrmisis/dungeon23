@@ -1,0 +1,177 @@
+{
+  "monsters": [],
+  "layouts": [
+    {
+      "name": "OSE Monster",
+      "blocks": [
+        {
+          "type": "heading",
+          "id": "9a6b486b286a",
+          "properties": [
+            "name"
+          ],
+          "fallback": "-",
+          "hasRule": true
+        },
+        {
+          "type": "text",
+          "id": "19d9499b1bfb",
+          "properties": [
+            "description"
+          ],
+          "text": null,
+          "fallback": "-",
+          "markdown": true,
+          "dice": false,
+          "headingProp": true,
+          "heading": "name"
+        },
+        {
+          "type": "group",
+          "id": "99da48a9c9db",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "385a0a1beb08",
+              "properties": [
+                "ac"
+              ],
+              "fallback": "-",
+              "markdown": true,
+              "dice": false,
+              "display": "Armor Class"
+            },
+            {
+              "type": "property",
+              "id": "28fafa8a097a",
+              "properties": [
+                "hd"
+              ],
+              "fallback": "-",
+              "display": "Hit Dice"
+            },
+            {
+              "type": "property",
+              "id": "1b399b59fb8a",
+              "properties": [
+                "thac0"
+              ],
+              "fallback": "-",
+              "display": "THAC0"
+            },
+            {
+              "type": "property",
+              "id": "eb9b2b0bb9eb",
+              "properties": [
+                "movement"
+              ],
+              "fallback": "-",
+              "display": "Movement"
+            },
+            {
+              "type": "property",
+              "id": "3b49283818fa",
+              "properties": [
+                "Morale"
+              ],
+              "fallback": "-",
+              "display": "morale"
+            },
+            {
+              "type": "property",
+              "id": "e83bca6ab989",
+              "properties": [
+                "Alignment"
+              ],
+              "fallback": "-",
+              "display": "alignment",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "a91a392a0928",
+              "properties": [
+                "xp"
+              ],
+              "fallback": "-",
+              "display": "Experience Points"
+            },
+            {
+              "type": "property",
+              "id": "c84b69fabaeb",
+              "properties": [
+                "number-appearing"
+              ],
+              "fallback": "-",
+              "display": "Number Appearing",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "9b498a5aa858",
+              "properties": [
+                "treasure-type"
+              ],
+              "fallback": "-",
+              "display": "Treasure Type",
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "saves",
+          "id": "7bca9a782b5a",
+          "properties": [
+            "death"
+          ],
+          "fallback": "-"
+        },
+        {
+          "type": "traits",
+          "id": "7bbbc82b9b7b",
+          "properties": [
+            "attacks"
+          ],
+          "fallback": "-",
+          "markdown": true,
+          "dice": false,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "3af888da598b",
+          "properties": [
+            "traits"
+          ],
+          "fallback": "-",
+          "heading": "Traits",
+          "conditioned": true
+        }
+      ]
+    },
+    {
+      "name": "OSE Character",
+      "blocks": []
+    }
+  ],
+  "default": "Basic 5e Layout",
+  "useDice": false,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 2,
+    "minor": 23,
+    "patch": 3
+  },
+  "paths": [
+    "/",
+    "Bestiary",
+    "Factions"
+  ],
+  "autoParse": false,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": false
+}
