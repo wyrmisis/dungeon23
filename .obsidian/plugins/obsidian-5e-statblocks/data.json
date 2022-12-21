@@ -70,13 +70,36 @@
               "display": "Movement"
             },
             {
+              "type": "group",
+              "id": "d9eb09b90af8",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "table",
+                  "id": "9a6a8838cada",
+                  "properties": [
+                    "saves"
+                  ],
+                  "headers": [
+                    "Death/Poison",
+                    "Wands/Rods/Staves",
+                    "Paralysis/Petrification",
+                    "Breath Weapons",
+                    "Spells"
+                  ],
+                  "calculate": true,
+                  "fallback": "-"
+                }
+              ]
+            },
+            {
               "type": "property",
               "id": "3b49283818fa",
               "properties": [
-                "Morale"
+                "morale"
               ],
               "fallback": "-",
-              "display": "morale"
+              "display": "Morale"
             },
             {
               "type": "property",
@@ -118,14 +141,6 @@
               "conditioned": true
             }
           ]
-        },
-        {
-          "type": "saves",
-          "id": "7bca9a782b5a",
-          "properties": [
-            "saves"
-          ],
-          "fallback": "-"
         },
         {
           "type": "traits",
