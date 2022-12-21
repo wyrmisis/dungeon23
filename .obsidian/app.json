@@ -1,4 +1,5 @@
 {
   "spellcheck": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "useTab": false
 }
