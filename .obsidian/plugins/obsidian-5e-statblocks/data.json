@@ -89,7 +89,7 @@
                   ],
                   "calculate": true,
                   "fallback": "-",
-                  "modifier": ""
+                  "modifier": "null"
                 }
               ]
             },

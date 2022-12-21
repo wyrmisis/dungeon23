@@ -4,5 +4,8 @@
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "Fira Sans,Noto Sans",
   "textFontFamily": "Noto Sans",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "statblock"
+  ]
 }
