@@ -189,136 +189,115 @@
           "heading": ""
         },
         {
-          "type": "group",
-          "id": "99da48a9c9db",
-          "properties": [],
-          "nested": [
-            {
-              "type": "table",
-              "id": "9a6a8838cada",
-              "properties": [
-                "saves"
-              ],
-              "headers": [
-                "D",
-                "W",
-                "P",
-                "B",
-                "S"
-              ],
-              "calculate": false,
-              "fallback": "-",
-              "modifier": "",
-              "conditioned": false
-            },
-            {
-              "type": "property",
-              "id": "ea2a3a2a193a",
-              "properties": [
-                "ac"
-              ],
-              "fallback": "-",
-              "display": "AC",
-              "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "28fafa8a097a",
-              "properties": [
-                "hd"
-              ],
-              "fallback": "-",
-              "display": "HD",
-              "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "1b399b59fb8a",
-              "properties": [
-                "thac0"
-              ],
-              "fallback": "-",
-              "display": "THAC0",
-              "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "eb9b2b0bb9eb",
-              "properties": [
-                "movement"
-              ],
-              "fallback": "-",
-              "display": "Movement",
-              "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "3b49283818fa",
-              "properties": [
-                "morale"
-              ],
-              "fallback": "-",
-              "display": "Morale",
-              "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "a91a392a0928",
-              "properties": [
-                "xp"
-              ],
-              "fallback": "-",
-              "display": "Experience Points",
-              "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "e83bca6ab989",
-              "properties": [
-                "alignment"
-              ],
-              "fallback": "-",
-              "display": "Alignment",
-              "conditioned": true
-            }
-          ]
+          "type": "table",
+          "id": "9a6a8838cada",
+          "properties": [
+            "saves"
+          ],
+          "headers": [
+            "D",
+            "W",
+            "P",
+            "B",
+            "S"
+          ],
+          "calculate": false,
+          "fallback": "-",
+          "modifier": "",
+          "conditioned": false
         },
         {
-          "type": "group",
-          "id": "c9d9dada68f8",
-          "properties": [],
-          "nested": [
-            {
-              "type": "subheading",
-              "id": "7b28f9583bba",
-              "properties": [],
-              "separator": " ",
-              "fallback": "Attacks"
-            },
-            {
-              "type": "traits",
-              "id": "7bbbc82b9b7b",
-              "properties": [
-                "attacks"
-              ],
-              "fallback": "-",
-              "markdown": false,
-              "dice": false,
-              "hasRule": false,
-              "heading": "",
-              "conditioned": false
-            },
-            {
-              "type": "traits",
-              "id": "3af888da598b",
-              "properties": [
-                "traits"
-              ],
-              "fallback": "-",
-              "heading": "Traits",
-              "conditioned": true
-            }
-          ]
+          "type": "property",
+          "id": "ea2a3a2a193a",
+          "properties": [
+            "ac"
+          ],
+          "fallback": "-",
+          "display": "AC",
+          "conditioned": false
+        },
+        {
+          "type": "property",
+          "id": "28fafa8a097a",
+          "properties": [
+            "hd"
+          ],
+          "fallback": "-",
+          "display": "HD",
+          "conditioned": true
+        },
+        {
+          "type": "property",
+          "id": "1b399b59fb8a",
+          "properties": [
+            "thac0"
+          ],
+          "fallback": "-",
+          "display": "THAC0",
+          "conditioned": true
+        },
+        {
+          "type": "property",
+          "id": "eb9b2b0bb9eb",
+          "properties": [
+            "movement"
+          ],
+          "fallback": "-",
+          "display": "Movement",
+          "conditioned": true
+        },
+        {
+          "type": "property",
+          "id": "3b49283818fa",
+          "properties": [
+            "morale"
+          ],
+          "fallback": "-",
+          "display": "Morale",
+          "conditioned": true
+        },
+        {
+          "type": "property",
+          "id": "a91a392a0928",
+          "properties": [
+            "xp"
+          ],
+          "fallback": "-",
+          "display": "Experience Points",
+          "conditioned": true
+        },
+        {
+          "type": "property",
+          "id": "e83bca6ab989",
+          "properties": [
+            "alignment"
+          ],
+          "fallback": "-",
+          "display": "Alignment",
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "7bbbc82b9b7b",
+          "properties": [
+            "attacks"
+          ],
+          "fallback": "-",
+          "markdown": false,
+          "dice": false,
+          "hasRule": false,
+          "heading": "Attacks",
+          "conditioned": false
+        },
+        {
+          "type": "traits",
+          "id": "3af888da598b",
+          "properties": [
+            "traits"
+          ],
+          "fallback": "-",
+          "heading": "Traits",
+          "conditioned": true
         }
       ],
       "name": "OSE Monster Copy"
