@@ -123,7 +123,7 @@
           "type": "saves",
           "id": "7bca9a782b5a",
           "properties": [
-            "death"
+            "saves"
           ],
           "fallback": "-"
         },
@@ -155,7 +155,7 @@
       "blocks": []
     }
   ],
-  "default": "Basic 5e Layout",
+  "default": "OSE Monster",
   "useDice": false,
   "renderDice": false,
   "export": true,
