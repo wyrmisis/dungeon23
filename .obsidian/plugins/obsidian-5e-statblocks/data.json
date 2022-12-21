@@ -52,7 +52,8 @@
           ],
           "fallback": "-",
           "display": "AC",
-          "conditioned": false
+          "conditioned": false,
+          "callback": "let ascending = 10 + (-1 * monster.ac);\nreturn `${monster.ac} (${ascending})`"
         },
         {
           "type": "property",
@@ -72,7 +73,8 @@
           ],
           "fallback": "-",
           "display": "THAC0",
-          "conditioned": false
+          "conditioned": false,
+          "callback": "let ab = 19 - monster.thac0;\nif (ab > 0) ab = `+${ab}`\nreturn `${monster.thac0} (${ab})`"
         },
         {
           "type": "property",
