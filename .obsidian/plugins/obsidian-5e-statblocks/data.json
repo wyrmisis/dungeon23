@@ -81,14 +81,15 @@
                     "saves"
                   ],
                   "headers": [
-                    "Death/Poison",
-                    "Wands/Rods/Staves",
-                    "Paralysis/Petrification",
-                    "Breath Weapons",
-                    "Spells"
+                    "D",
+                    "W",
+                    "P",
+                    "B",
+                    "S"
                   ],
                   "calculate": true,
-                  "fallback": "-"
+                  "fallback": "-",
+                  "modifier": ""
                 }
               ]
             },
