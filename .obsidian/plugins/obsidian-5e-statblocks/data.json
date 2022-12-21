@@ -53,7 +53,7 @@
           "fallback": "-",
           "display": "AC",
           "conditioned": false,
-          "callback": "let ascending = 10 + (-1 * monster.ac);\nreturn `${monster.ac} (${ascending})`"
+          "callback": "let ascending = 19 - monster.ac;\nreturn `${monster.ac} (${ascending})`"
         },
         {
           "type": "property",
