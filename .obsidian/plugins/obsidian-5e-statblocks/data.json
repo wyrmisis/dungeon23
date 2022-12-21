@@ -127,13 +127,6 @@
           "properties": [],
           "nested": [
             {
-              "type": "subheading",
-              "id": "7b28f9583bba",
-              "properties": [],
-              "separator": " ",
-              "fallback": "Attacks"
-            },
-            {
               "type": "traits",
               "id": "7bbbc82b9b7b",
               "properties": [
@@ -143,7 +136,7 @@
               "markdown": false,
               "dice": false,
               "hasRule": false,
-              "heading": "",
+              "heading": "Attacks",
               "conditioned": true
             },
             {
