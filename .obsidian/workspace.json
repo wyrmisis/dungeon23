@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Readme.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8941f78276656f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Readme.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Readme.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Readme.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a59cd99b82fb721",
+  "active": "8941f78276656f15",
   "lastOpenFiles": [
+    "zzMoodboard/Readme.md",
     "README.md",
+    "Dungeon Levels/10 - The Void.md",
+    "Dungeon Levels/00 - Citadel, Upper Level.md",
+    "Bestiary/Readme.md",
+    "zzAssets/Readme.md",
     "Dungeon Levels/01 - Citadel, Ground Level.md",
     "The Wider World/The Weald.md",
     "The Wider World/The Outpost.md",
-    "Factions/The Court of Briars.md",
-    "Factions/The Claimant.md",
-    "Bestiary/Untitled.md",
-    "Dungeon Levels/00 - Citadel, Upper Level.md",
-    "Dungeon Levels/04 - Proving Ground, Tests of Magic.md",
-    "Dungeon Levels/03 - Proving Ground, Tests of Might.md"
+    "Factions/The Court of Briars.md"
   ]
 }

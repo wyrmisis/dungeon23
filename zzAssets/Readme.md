@@ -8,4 +8,14 @@ This directory ought to store maps, handouts, creature/token art, and so on. Thi
     * [ ] Lady-Commander of the Ruined Citadel
     * [ ] Common vermin
 * [ ] Maps
-    * [ ] Citadel 
+    * [ ] Citadel levels
+    * [ ] Proving Ground levels
+    * [ ] Wormway levels
+    * [ ] Proto-Elf Lab levels
+    * [ ] Void levels
+* [ ] Banner Art
+    * [ ] Citadel levels
+    * [ ] Proving Ground levels
+    * [ ] Wormway levels
+    * [ ] Proto-Elf Lab levels
+    * [ ] Void levels
