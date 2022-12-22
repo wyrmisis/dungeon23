@@ -10,7 +10,7 @@
 * That one album that emulates the "feeling" of succumbing to dementia
     * I am not linking or listening to it again, that album leaves some marks.
 * *Darkest Dungeon*'s march from dark fantasy adventure into mythos horror
-* *Diablo*'s descent from the mundane into the supernatural or religious
+* *Diablo*'s descent from the mundane/expected into the supernatural/religious
 * *Cave Story*'s re-contextualization of itself after learning its hidden truths
 * *Silent Hill*'s warping of personal, perceived reality
 * The general design ethos of *The Halls of Arden Vul*
@@ -18,7 +18,7 @@
 * *Signalis*'s intersection of the cosmic and the personal
 
 ## Flavors
-* Action-horror Fantasy (my usual)
+* Action-Horror Fantasy (my usual)
 * Hope and hopelessness
 * Disorientation
 * Sacrifice? Progress in this dungeon will cost something.

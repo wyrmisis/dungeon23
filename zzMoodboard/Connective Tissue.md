@@ -9,3 +9,4 @@ How should dungeon levels be connected?
 * **Ventilation shafts**, as deep as the Proving Grounds levels
 * **Hand-dug' tunnels**, excavated by those looking to bypass the dangers of the first level
 * **Architectural decay**, resulting in holes in the floor and rubble piles that lead to the ceiling
+* **Burrowed tunnels**, created by whatever lives in the Wormway
