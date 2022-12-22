@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Untitled.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d4747621a09d057",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Untitled.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Untitled.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Untitled.md"
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md"
               }
             }
           }
@@ -148,15 +147,15 @@
   },
   "active": "db04f742a03d6a82",
   "lastOpenFiles": [
-    "Dungeon Levels/01 - Citadel, Ground Level.md",
+    "The Wider World/The Weald.md",
+    "The Wider World/The Outpost.md",
+    "Factions/The Court of Briars.md",
+    "Factions/The Claimant.md",
     "Bestiary/Untitled.md",
+    "Dungeon Levels/01 - Citadel, Ground Level.md",
     "Dungeon Levels/00 - Citadel, Upper Level.md",
     "README.md",
     "Dungeon Levels/04 - Proving Ground, Tests of Magic.md",
-    "Dungeon Levels/03 - Proving Ground, Tests of Might.md",
-    "The Wider World/The Outpost.md",
-    "Factions/The Court of Briars.md",
-    "The Wider World/The Weald.md",
-    "Dungeon Levels/10 - The Void.md"
+    "Dungeon Levels/03 - Proving Ground, Tests of Might.md"
   ]
 }

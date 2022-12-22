@@ -78,6 +78,16 @@
         },
         {
           "type": "property",
+          "id": "581b685b18aa",
+          "properties": [
+            "attackRoutine"
+          ],
+          "fallback": "-",
+          "display": "Attack Routine",
+          "conditioned": true
+        },
+        {
+          "type": "property",
           "id": "eb9b2b0bb9eb",
           "properties": [
             "movement"
@@ -144,165 +154,6 @@
     {
       "name": "OSE Character",
       "blocks": []
-    },
-    {
-      "name": "OSE Monster (short)",
-      "blocks": [
-        {
-          "type": "property",
-          "id": "aaba1a9b582b",
-          "properties": [
-            "name"
-          ],
-          "fallback": "-",
-          "callback": "  const saveLabels = ['D', 'W', 'P', 'B', 'S'];\n  const nothing = '-';\n  return `\n    ### ${monster.name}\n    \n    **AC** ${monster.ac || 9} (${19 - (monster.ac || 9)}), \n    **HD** ${monster.hd || 1}, \n    **Att** ${monster.attackRoutine || nothing}, \n    **THAC0** ${monster.thac0 || 19} (+${19 - (monster.thac0 || 19)}),\n    **MV** ${monster.movement} (${monster.movement / 3}),\n    **SV** ${monster.saves.forEach((sv, i) => `${saveLabels[i]}${sv}`)},\n    **ML** ${monster.morale}\n  `",
-          "markdown": true,
-          "dice": false
-        }
-      ]
-    },
-    {
-      "blocks": [
-        {
-          "type": "heading",
-          "id": "9a6b486b286a",
-          "properties": [
-            "name"
-          ],
-          "fallback": "-",
-          "hasRule": true
-        },
-        {
-          "type": "table",
-          "id": "9a6a8838cada",
-          "properties": [
-            "saves"
-          ],
-          "headers": [
-            "D",
-            "W",
-            "P",
-            "B",
-            "S"
-          ],
-          "calculate": false,
-          "fallback": "-",
-          "modifier": "",
-          "conditioned": false
-        },
-        {
-          "type": "traits",
-          "id": "7bbbc82b9b7b",
-          "properties": [
-            "attacks"
-          ],
-          "fallback": "-",
-          "markdown": false,
-          "dice": false,
-          "hasRule": false,
-          "heading": "Attacks",
-          "conditioned": true
-        },
-        {
-          "type": "traits",
-          "id": "3af888da598b",
-          "properties": [
-            "traits"
-          ],
-          "fallback": "-",
-          "heading": "Traits",
-          "conditioned": true
-        },
-        {
-          "type": "inline",
-          "id": "9b894ad9b99b",
-          "properties": [],
-          "nested": [
-            {
-              "type": "property",
-              "id": "ea2a3a2a193a",
-              "properties": [
-                "ac"
-              ],
-              "fallback": "-",
-              "display": "AC",
-              "conditioned": false,
-              "callback": "let ascending = 19 - monster.ac;\nreturn `${monster.ac} (${ascending})`"
-            },
-            {
-              "type": "property",
-              "id": "28fafa8a097a",
-              "properties": [
-                "hd"
-              ],
-              "fallback": "-",
-              "display": "HD",
-              "conditioned": false
-            },
-            {
-              "type": "property",
-              "id": "fa5b0afb3b9b",
-              "properties": [
-                "attackRoutine"
-              ],
-              "fallback": "-",
-              "display": "Att"
-            },
-            {
-              "type": "property",
-              "id": "1b399b59fb8a",
-              "properties": [
-                "thac0"
-              ],
-              "fallback": "-",
-              "display": "THAC0",
-              "conditioned": false,
-              "callback": "let ab = 19 - monster.thac0;\nif (ab > 0) ab = `+${ab}`\nreturn `${monster.thac0} (${ab})`"
-            },
-            {
-              "type": "property",
-              "id": "eb9b2b0bb9eb",
-              "properties": [
-                "movement"
-              ],
-              "fallback": "-",
-              "display": "MV",
-              "conditioned": false
-            },
-            {
-              "type": "property",
-              "id": "3b49283818fa",
-              "properties": [
-                "morale"
-              ],
-              "fallback": "-",
-              "display": "ML",
-              "conditioned": false
-            },
-            {
-              "type": "property",
-              "id": "e83bca6ab989",
-              "properties": [
-                "alignment"
-              ],
-              "fallback": "-",
-              "display": "AL",
-              "conditioned": true
-            }
-          ]
-        },
-        {
-          "type": "property",
-          "id": "28dad909583a",
-          "properties": [
-            "saves"
-          ],
-          "fallback": "-",
-          "display": "SV",
-          "callback": "const saveLabels = ['D', 'W', 'P', 'B', 'S'];\nreturn monster.saves.map((sv, i) => `${saveLabels[i]}${sv}`).join(' ');"
-        }
-      ],
-      "name": "OSE Monster (line)"
     }
   ],
   "default": "OSE Monster",
