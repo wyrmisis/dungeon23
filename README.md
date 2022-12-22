@@ -3,7 +3,9 @@
 ## Intent
 This repository is intended to serve as an automated backup of my #Dungeon23 work.
 
-This project will be a 
+This project will be a 11+ floor megadungeon themed around the decay of order into chaos, as well as perception and reality. My hope is to tap into cosmic and psychological horror -- I'm aiming for a more eldritch Silent Hill, as a contrast to more capable protagonists.
+
+This dungeon will be designed and statted for games that follow the B/X lineage. The companion Foundry module will include stats and items for the Unofficial Old School Essentials system for Foundry (disclaimer: I'm a contributor to that project).
 
 ## Goals
 The obvious goal of this project is to complete a full megadungeon, per the "rules" of #Dungeon23 -- one room a day, one floor a month.
