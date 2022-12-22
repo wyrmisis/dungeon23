@@ -191,16 +191,6 @@
           "conditioned": false
         },
         {
-          "type": "property",
-          "id": "eb9b2b0bb9eb",
-          "properties": [
-            "movement"
-          ],
-          "fallback": "-",
-          "display": "Movement",
-          "conditioned": false
-        },
-        {
           "type": "traits",
           "id": "7bbbc82b9b7b",
           "properties": [
@@ -251,6 +241,15 @@
             },
             {
               "type": "property",
+              "id": "fa5b0afb3b9b",
+              "properties": [
+                "attackRoutine"
+              ],
+              "fallback": "-",
+              "display": "Att"
+            },
+            {
+              "type": "property",
               "id": "1b399b59fb8a",
               "properties": [
                 "thac0"
@@ -262,12 +261,22 @@
             },
             {
               "type": "property",
+              "id": "eb9b2b0bb9eb",
+              "properties": [
+                "movement"
+              ],
+              "fallback": "-",
+              "display": "MV",
+              "conditioned": false
+            },
+            {
+              "type": "property",
               "id": "3b49283818fa",
               "properties": [
                 "morale"
               ],
               "fallback": "-",
-              "display": "Morale",
+              "display": "ML",
               "conditioned": false
             },
             {
@@ -277,10 +286,20 @@
                 "alignment"
               ],
               "fallback": "-",
-              "display": "Alignment",
+              "display": "AL",
               "conditioned": true
             }
           ]
+        },
+        {
+          "type": "property",
+          "id": "28dad909583a",
+          "properties": [
+            "saves"
+          ],
+          "fallback": "-",
+          "display": "SV",
+          "callback": "const saveLabels = ['D', 'W', 'P', 'B', 'S'];\nreturn monster.saves.map((sv, i) => `${saveLabels[i]}${sv}`).join(' ');"
         }
       ],
       "name": "OSE Monster (line)"

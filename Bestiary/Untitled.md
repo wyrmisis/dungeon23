@@ -1,6 +1,5 @@
 ```statblock
 name: Test Creature
-layout: OSE Monster (line)
 
 description: "A test description for this creature, with *markdown* support?"
 
@@ -20,4 +19,3 @@ attacks:
     - name: Trial
       desc: "2d6"
 ```
-short
