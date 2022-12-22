@@ -8,7 +8,7 @@
 ## Inspirations
 * My own anxieties over losing the self to the withering of meat
 * That one album that emulates the "feeling" of succumbing to dementia
-    * I am not linking or listening to it again, 
+    * I am not linking or listening to it again, that album leaves some marks.
 * *Darkest Dungeon*'s march from dark fantasy adventure into mythos horror
 * *Diablo*'s descent from the mundane into the supernatural or religious
 * *Cave Story*'s re-contextualization of itself after learning its hidden truths

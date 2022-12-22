@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad3976c605f3d2b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzMoodboard/Connective Tissue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
+                "file": "zzMoodboard/Connective Tissue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
+                "file": "zzMoodboard/Connective Tissue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md"
+                "file": "zzMoodboard/Connective Tissue.md"
               }
             }
           }
@@ -182,17 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "882a5c93d3c656f7",
+  "active": "ad3976c605f3d2b6",
   "lastOpenFiles": [
-    "zzMoodboard/Readme.md",
     "zzAssets/Readme.md",
+    "zzMoodboard/Connective Tissue.md",
+    "zzMoodboard/Inspirations, Themes, and Flavors.md",
+    "zzMoodboard/Readme.md",
     "README.md",
     "Dungeon Levels/10 - The Void.md",
     "Dungeon Levels/00 - Citadel, Upper Level.md",
     "Bestiary/Readme.md",
     "Dungeon Levels/01 - Citadel, Ground Level.md",
-    "The Wider World/The Weald.md",
-    "The Wider World/The Outpost.md",
-    "Factions/The Court of Briars.md"
+    "The Wider World/The Weald.md"
   ]
 }
