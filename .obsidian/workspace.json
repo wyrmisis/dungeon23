@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzAssets/Readme.md",
+                "file": "zzMoodboard/Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "882a5c93d3c656f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzAssets/Readme.md",
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzAssets/Readme.md",
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzAssets/Readme.md"
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md"
               }
             }
           }
@@ -170,14 +182,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea3a7f45b0940a3",
+  "active": "882a5c93d3c656f7",
   "lastOpenFiles": [
-    "README.md",
     "zzMoodboard/Readme.md",
+    "zzAssets/Readme.md",
+    "README.md",
     "Dungeon Levels/10 - The Void.md",
     "Dungeon Levels/00 - Citadel, Upper Level.md",
     "Bestiary/Readme.md",
-    "zzAssets/Readme.md",
     "Dungeon Levels/01 - Citadel, Ground Level.md",
     "The Wider World/The Weald.md",
     "The Wider World/The Outpost.md",
