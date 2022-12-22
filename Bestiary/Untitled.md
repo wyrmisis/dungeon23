@@ -1,5 +1,6 @@
 ```statblock
 name: Test Creature
+layout: OSE Monster (short)
 
 description: "A test description for this creature, with *markdown* support?"
 

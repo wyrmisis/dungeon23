@@ -144,6 +144,22 @@
     {
       "name": "OSE Character",
       "blocks": []
+    },
+    {
+      "name": "OSE Monster (short)",
+      "blocks": [
+        {
+          "type": "property",
+          "id": "aaba1a9b582b",
+          "properties": [
+            "name"
+          ],
+          "fallback": "-",
+          "callback": "return `\n### ${monster.name}\n`",
+          "markdown": true,
+          "dice": false
+        }
+      ]
     }
   ],
   "default": "OSE Monster",
