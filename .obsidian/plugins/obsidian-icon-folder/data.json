@@ -21,7 +21,10 @@
     }
   },
   "Factions": "RiGroupLine",
-  "Bestiary": "RiSkull2Line",
+  "Bestiary": {
+    "iconName": "RiSkull2Line",
+    "inheritanceIcon": "RiSkull2Line"
+  },
   "Dungeon Levels/00 - Citadel, Upper Level.md": "RiVipCrownLine",
   "Dungeon Levels/01 - Citadel, Ground Level.md": "RiVipCrownLine",
   "Dungeon Levels/02 - Citadel, Lower Level.md": "RiVipCrownLine",

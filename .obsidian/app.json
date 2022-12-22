@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
   "showFrontmatter": false,
-  "useTab": false
+  "useTab": false,
+  "attachmentFolderPath": "Maps and Assets"
 }
