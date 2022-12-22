@@ -155,7 +155,7 @@
             "name"
           ],
           "fallback": "-",
-          "callback": "return `\n### ${monster.name}\n`",
+          "callback": "  const saveLabels = ['D', 'W', 'P', 'B', 'S'];\n  const nothing = '-';\n  return `\n    ### ${monster.name}\n    \n    **AC** ${monster.ac || 9} (${19 - (monster.ac || 9)}), \n    **HD** ${monster.hd || 1}, \n    **Att** ${monster.attackRoutine || nothing}, \n    **THAC0** ${monster.thac0 || 19} (+${19 - (monster.thac0 || 19)}),\n    **MV** ${monster.movement} (${monster.movement / 3}),\n    **SV** ${monster.saves.forEach((sv, i) => `${saveLabels[i]}${sv}`)},\n    **ML** ${monster.morale}\n  `",
           "markdown": true,
           "dice": false
         }
