@@ -1,4 +1,4 @@
-This directory will hold creatures that are not aligned with a specific faction. Their stat blocks will use the following format:
+4This directory will hold creatures that are not aligned with a specific faction. Their stat blocks will use the following format:
 ```statblock
 name: Test Creature
 
