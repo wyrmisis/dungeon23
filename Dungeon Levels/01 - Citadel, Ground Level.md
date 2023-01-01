@@ -1,7 +1,6 @@
 ```leaflet
 id: level-01-map
 image: [[level-01-clean.png]]
-unit: feet
 ```
 
 ## Overview
