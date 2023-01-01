@@ -47,10 +47,20 @@ The northeastern stairs are collapsed.
 The pillars in this room were gifts from the dwarves of the Titan's Teeth mountain range, given in commemoration of the fulfillment of an ancient oath. Each represents an elfin Paragon -- that is, an archetype that elves strive to embody in their day to day lives. Each pillar has a recess carved into it at about a meter up where an offering could fit.
 
 The Paragons are as follows:
-* The Scholar:  A robed figure with arms tucked into sleeves. Scrolls are pinned between its arm and torso. Offering this statue an arcane spell scroll of 4th level or higher will give a Magic-User, Elf, or Illusionist an additional level 1 spell slot per day. Others receive a single level 1 arcane spell slot that can only be used with a randomly rolled spell. 
-* The Steward: 
-* The Survivor: A muscular, stern-eyed survivalist. Offering this statue a 
-* The Advisor: 
+
+#### The Scholar
+A robed figure with arms tucked into sleeves. Scrolls are pinned between its arm and torso. Offering this pillar texts containing ancient lore and secrets will **TODO**. 
+
+#### The Seneschal
+A finely dressed figure holding a delicate sabre, tip planted into its plinth. Offering this pillar **TODO**
+
+#### The Survivor
+*A muscular, stern-eyed survivalist.*
+* **Accepted offering**: A +2 or better weapon
+* **Reward**: A permanent +1 to hit and +1 damage with either missile or melee weapons, depending on the sacrificed weapon.
+
+#### The Spellweaver
+A robed figure clutching a staff. Offering this statue an arcane spell scroll of 4th level or higher will strength the donor's ties to the arcane; a Magic-User, Elf, or Illusionist donor will gain an additional level 1 spell slot per day. Others receive a single level 1 arcane spell slot that can only be used with a randomly rolled spell.
 
 ### 3. 
 ### 4. 
