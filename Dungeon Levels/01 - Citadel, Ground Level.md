@@ -40,7 +40,7 @@ The northeastern stairs are collapsed.
 ### 2. The Pillars of Elfinkind
 
 >[!tldr] Room Details
-> * See: Four **pillars** carved in the dwarven style. Each depicts an elf (see below)  
+> * See: Four **pillars** carved in the dwarven style. Each depicts an elf (see below); plant growth.
 > * Smell: **earthy**, **mildewed**, **rotten**.
 > * Feel: Humidity; a gentle, cool, stale breeze from the north. 
 
@@ -49,18 +49,30 @@ The pillars in this room were gifts from the dwarves of the Titan's Teeth mounta
 The Paragons are as follows:
 
 #### The Scholar
-A robed figure with arms tucked into sleeves. Scrolls are pinned between its arm and torso. Offering this pillar texts containing ancient lore and secrets will **TODO**. 
+*A robed figure with arms tucked into sleeves. Scrolls are pinned between its arm and torso.* 
+* **Accepted offering**: Texts containing ancient lore and secrets
+* **Reward**: @todo
+* **Frequency**: @todo
 
 #### The Seneschal
-A finely dressed figure holding a delicate sabre, tip planted into its plinth. Offering this pillar **TODO**
+*A finely dressed figure holding a delicate sabre, tip planted into its plinth.*
+* **Accepted offering**: @todo
+* **Reward**: @todo
+* **Frequency**: @todo
 
 #### The Survivor
-*A muscular, stern-eyed survivalist.*
+*A muscular, stern-eyed survivalist. They stand at attention with a spear in one hand*
 * **Accepted offering**: A +2 or better weapon
 * **Reward**: A permanent +1 to hit and +1 damage with either missile or melee weapons, depending on the sacrificed weapon.
+* **Frequency**: Once per character
 
 #### The Spellweaver
-A robed figure clutching a staff. Offering this statue an arcane spell scroll of 4th level or higher will strength the donor's ties to the arcane; a Magic-User, Elf, or Illusionist donor will gain an additional level 1 spell slot per day. Others receive a single level 1 arcane spell slot that can only be used with a randomly rolled spell.
+*A robed figure clutching a staff.*
+* **Accepted offering**: An arcane spell scroll of 4th level or higher
+* **Reward**: A runic brand that confers a stronger connection with the Arcane.
+    * A Magic-User, Elf, or Illusionist donor will gain an additional level 1 spell slot per day.
+    * Others receive a single level 1 arcane spell slot that can only be used with a randomly rolled Magic-User spell.
+* **Frequency**: Once per character
 
 ### 3. 
 ### 4. 
