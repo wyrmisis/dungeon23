@@ -40,11 +40,11 @@ The northeastern stairs are collapsed.
 ### 2. The Pillars of Elfinkind
 
 >[!tldr] Room Details
-> * See: Four **pillars** carved in the dwarven style. Each depicts an elf (see below); plant growth.
+> * See: Four **pillars** carved in the dwarven style. Each depicts an elf (see below); **moss**.
 > * Smell: **earthy**, **mildewed**, **rotten**.
 > * Feel: Humidity; a gentle, cool, stale breeze from the north. 
 
-The pillars in this room were gifts from the dwarves of the Titan's Teeth mountain range, given in commemoration of the fulfillment of an ancient oath. Each represents an elfin Paragon -- that is, an archetype that elves strive to embody in their day to day lives. Each pillar has a recess carved into it at about a meter up where an offering could fit.
+The pillars in this room were gifts from the dwarves of the Titan's Teeth mountain range, given in commemoration of the fulfillment of an ancient oath. Each represents an elven Paragon -- that is, an archetype that elves strive to embody in their day to day lives. Each pillar has a recess carved into it at about a meter up where an offering could fit.
 
 The Paragons are as follows:
 
