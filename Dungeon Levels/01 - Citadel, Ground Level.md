@@ -24,11 +24,18 @@ unit: feet
 
 ### 1. Southern Entrance
 >[!tldr] Room Details
->* See: **Southern doors** blasted into the room;
+>* See: **Southern doors** blasted into the room; thick **vines** choke the space and **hang from most surfaces**
 > * Smell: **earthy**, **mildewed**, **rotten**.
 > * Hear: **Insects**; subdued **respiration**, like the halls beyond are breathing
-> * **Vines** choke the room and hang from the ceiling
-> * An 
+
+This room was the first entrance built for the Citadel, and historically the grandest. Now, the southern entrance serves as an alarm system for the [[The Court of Briars]], thanks to the Sentinel Creeper spread throughout the room.
+
+The northeastern stairs are collapsed.
+
+> [!danger] Trap: Sentinel Creeper
+> * If **harmed or touched** by a living being, **alerts nearby Court of Briars guards** 
+> * Roll **2d6 under Dexterity** to navigate safely
+
 
 ### Northern Entrance
 ### Well Chamber, Floor 1
