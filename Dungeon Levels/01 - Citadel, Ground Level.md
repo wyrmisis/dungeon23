@@ -37,7 +37,21 @@ The northeastern stairs are collapsed.
 > * Roll **2d6 under Dexterity** to navigate safely
 
 
-### 2. 
+### 2. The Pillars of Elfinkind
+
+>[!tldr] Room Details
+>* See: **Southern doors** blasted into the room; thick blue-green **vines** choke the space and **hang from most surfaces**
+> * Smell: **earthy**, **mildewed**, **rotten**.
+> * Hear: **Insects**; subdued **respiration**, like the halls beyond are breathing
+
+The pillars in this room were gifts from the dwarves of the Titan's Teeth mountain range, given in commemoration of the fulfillment of an ancient oath. Each represents an elfin Paragon -- that is, an archetype that elves strive to embody in their day to day lives.
+
+The Paragons are as follows:
+* The Scholar: 
+* The Steward: 
+* The Survivor: 
+* The Advisor: 
+
 ### 3. 
 ### 4. 
 ### 5. 
