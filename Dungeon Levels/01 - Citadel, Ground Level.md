@@ -5,20 +5,35 @@ unit: feet
 ```
 
 ## Overview
-* Ground level of the Elven Citadel
-* Ruined; impressive that it has stood this long
-* Many corridors are choked with roots and rubble
-    * Could be cleared for more direct access
-## 1. Southern Entrance
-Test
+```
+@TODO
+```
 
-> [!TODO] Treasure
-> * Test
+## Factions Present
+```
+@TODO
+```
 
-## Northern Entrance
-## Well Chamber, Floor 1
-## Western Gardens
-## Eastern Gardens
+## Random Encounters
+```
+@TODO
+```
+
+
+## Room Keys
+
+### 1. Southern Entrance
+>[!tldr] Room Details
+>* See: **Southern doors** blasted into the room;
+> * Smell: **earthy**, **mildewed**, **rotten**.
+> * Hear: **Insects**; subdued **respiration**, like the halls beyond are breathing
+> * **Vines** choke the room and hang from the ceiling
+> * An 
+
+### Northern Entrance
+### Well Chamber, Floor 1
+### Western Gardens
+### Eastern Gardens
 
 
 Room ideas, from ChatGPT:
