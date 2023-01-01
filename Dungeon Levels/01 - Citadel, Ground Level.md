@@ -23,8 +23,9 @@ unit: feet
 ## Room Keys
 
 ### 1. Southern Entrance
+
 >[!tldr] Room Details
->* See: **Southern doors** blasted into the room; thick **vines** choke the space and **hang from most surfaces**
+>* See: **Southern doors** blasted into the room; thick blue-green **vines** choke the space and **hang from most surfaces**
 > * Smell: **earthy**, **mildewed**, **rotten**.
 > * Hear: **Insects**; subdued **respiration**, like the halls beyond are breathing
 
@@ -37,13 +38,38 @@ The northeastern stairs are collapsed.
 > * Roll **2d6 under Dexterity** to navigate safely
 
 
-### Northern Entrance
-### Well Chamber, Floor 1
-### Western Gardens
-### Eastern Gardens
+### 2. 
+### 3. 
+### 4. 
+### 5. 
+### 6. 
+### 7. 
+### 8. 
+### 9. 
+### 10. 
+### 11. 
+### 12. 
+### 13. 
+### 14. 
+### 15. 
+### 16. 
+### 17. 
+### 18. 
+### 19. 
+### 20. 
+### 21. 
+### 22. 
+### 23. 
+### 24. 
+### 25. 
+### 26. 
+### 27. 
+### 28. 
+### 29. 
+### 30. 
+### 31. 
 
-
-Room ideas, from ChatGPT:
+## Room ideas, from ChatGPT:
 ```
 1.  Overgrown garden courtyard with a broken fountain
 2.  Abandoned throne room with moldering tapestries and rusted throne
@@ -78,7 +104,7 @@ Room ideas, from ChatGPT:
 31.  The bottomless pit, with a dizzying, vertiginous drop into infinite darkness.
 ```
 
-Loot spread, from ChatGPT:
+## Loot spread, from ChatGPT:
 ```
 In the Basic/Expert Dungeons and Dragons ruleset, the distribution of loot in a dungeon is generally based on the challenge level of the creatures and encounters within it. More powerful and difficult encounters should yield better loot as a reward for the players.
 

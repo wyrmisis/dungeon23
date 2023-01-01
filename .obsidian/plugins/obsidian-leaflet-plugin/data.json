@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "level-01-map",
-      "lastAccessed": 1672555155914,
+      "lastAccessed": 1672559579306,
       "markers": [
         {
           "id": "ID_6aa8da1a2b1b",
@@ -35,7 +35,7 @@
             0.4901041666666667,
             0.863797487745098
           ],
-          "description": "1: Southern Entrance",
+          "description": "1. Southern Entrance",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
