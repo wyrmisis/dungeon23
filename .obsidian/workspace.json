@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level-01-clean.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "level-01-clean.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "level-01-clean.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "level-01-clean.md"
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "ad3976c605f3d2b6",
   "lastOpenFiles": [
+    "level-01-clean.md",
     "Dungeon Levels/01 - Citadel, Ground Level.md",
     "zzMoodboard/Connective Tissue.md",
     "The Wider World/The Weald.md",
@@ -205,7 +206,6 @@
     "zzMoodboard/Readme.md",
     "zzMoodboard/Inspirations, Themes, and Flavors.md",
     "zzAssets/Readme.md",
-    "README.md",
-    "Dungeon Levels/10 - The Void.md"
+    "README.md"
   ]
 }

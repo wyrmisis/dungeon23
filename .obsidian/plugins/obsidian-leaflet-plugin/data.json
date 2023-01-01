@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "level-01-map",
-      "lastAccessed": 1672554437346,
+      "lastAccessed": 1672554925199,
       "markers": [
         {
           "id": "ID_6aa8da1a2b1b",
@@ -17,6 +17,25 @@
           "command": false,
           "percent": null,
           "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08da4a48684a",
+          "type": "default",
+          "loc": [
+            -17.208465576171875,
+            9.7637939453125
+          ],
+          "layer": "%5B%5Blevel-01-clean.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4901041666666667,
+            0.863797487745098
+          ],
+          "description": "1: Southern Entrance",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

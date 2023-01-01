@@ -1,8 +1,21 @@
 ```leaflet
 id: level-01-map
-image: 
+image: [[level-01-clean.png]]
 unit: feet
 ```
+
+## Overview
+* Ground level of the Elven Citadel
+* Ruined; impressive that it has stood this long
+* Many corridors are choked with roots and rubble
+    * Could be cleared for more direct access
+## 1. Southern Entrance
+
+## Northern Entrance
+## Well Chamber, Floor 1
+## Western Gardens
+## Eastern Gardens
+
 
 Room ideas, from ChatGPT:
 ```
