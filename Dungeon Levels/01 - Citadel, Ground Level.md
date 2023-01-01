@@ -40,16 +40,16 @@ The northeastern stairs are collapsed.
 ### 2. The Pillars of Elfinkind
 
 >[!tldr] Room Details
->* See: **Southern doors** blasted into the room; thick blue-green **vines** choke the space and **hang from most surfaces**
+> * See: Four **pillars** carved in the dwarven style. Each depicts an elf (see below)  
 > * Smell: **earthy**, **mildewed**, **rotten**.
-> * Hear: **Insects**; subdued **respiration**, like the halls beyond are breathing
+> * Feel: Humidity; a gentle, cool, stale breeze from the north. 
 
-The pillars in this room were gifts from the dwarves of the Titan's Teeth mountain range, given in commemoration of the fulfillment of an ancient oath. Each represents an elfin Paragon -- that is, an archetype that elves strive to embody in their day to day lives.
+The pillars in this room were gifts from the dwarves of the Titan's Teeth mountain range, given in commemoration of the fulfillment of an ancient oath. Each represents an elfin Paragon -- that is, an archetype that elves strive to embody in their day to day lives. Each pillar has a recess carved into it at about a meter up where an offering could fit.
 
 The Paragons are as follows:
-* The Scholar: 
+* The Scholar:  A robed figure with arms tucked into sleeves. Scrolls are pinned between its arm and torso. Offering this statue an arcane spell scroll of 4th level or higher will give a Magic-User, Elf, or Illusionist an additional level 1 spell slot per day. Others receive a single level 1 arcane spell slot that can only be used with a randomly rolled spell. 
 * The Steward: 
-* The Survivor: 
+* The Survivor: A muscular, stern-eyed survivalist. Offering this statue a 
 * The Advisor: 
 
 ### 3. 
