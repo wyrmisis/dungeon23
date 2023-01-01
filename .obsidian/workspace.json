@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Readme.md",
+                "file": "zzMoodboard/Connective Tissue.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Readme.md",
+                "file": "zzMoodboard/Connective Tissue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Readme.md",
+                "file": "zzMoodboard/Connective Tissue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Readme.md"
+                "file": "zzMoodboard/Connective Tissue.md"
               }
             }
           }
@@ -196,6 +196,8 @@
   },
   "active": "ad3976c605f3d2b6",
   "lastOpenFiles": [
+    "The Wider World/The Weald.md",
+    "The Wider World/The Outpost.md",
     "Bestiary/Readme.md",
     "zzMoodboard/Connective Tissue.md",
     "zzMoodboard/Readme.md",
@@ -203,8 +205,6 @@
     "zzAssets/Readme.md",
     "README.md",
     "Dungeon Levels/10 - The Void.md",
-    "Dungeon Levels/00 - Citadel, Upper Level.md",
-    "Dungeon Levels/01 - Citadel, Ground Level.md",
-    "The Wider World/The Weald.md"
+    "Dungeon Levels/00 - Citadel, Upper Level.md"
   ]
 }
