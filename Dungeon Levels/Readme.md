@@ -6,25 +6,33 @@ Each floor should contain the following elements:
 * The Level's overview
 * Factions present on the level
 * Random encounters for the level 
+* The 
 
 ## Anatomy of a Room Key
 
 A room key should look like the following...
 
 ### 00. Room Name (note: level 3 heading)
-* List out immediately important **sensory** and **player-context** information 
-* Terse, useful **descriptions**
-* Be sure to emphasize **nouns** and **verbs** 
+>[!tldr] Room Details
+> * List out immediately important **sensory** and **player-context** information 
+> * Terse, useful **descriptions**
+> * Be sure to emphasize **nouns** and **verbs***
 
-Optional longer form information, which can contain GM context; historical context for a room, tables, mechanics, and so on. Be sure to make good use of subheadings and other formatting tools.
-> [!todo]
+Optional longer form information goes after the room details block. This can contain GM context, such as historical context for a room, tables, mechanics, and so on. Be sure to make good use of subheadings and other formatting tools.
+
+> [!quote] Handout: Note name
+> Context about the handout, including language, condition, penmanship, etc.
+>A blockquote note goes here. Write your head off!
+> > [!note] GM Context
+> > Provide additional context for this note
 
 > [!question] Secret: some hidden object/door
 > * Where is it?
 > * How does it work?
-> * If it's a cache/container/etc, what's in it?
 > 
 > A secret should have a d6 chance to be discovered through searching; if the discovery chance isn't d6, add the discovery chance die to the title
+> > [!example]  Treasure
+> > * If it's a secret cache/container/etc, add contents here
 
 > [!danger] Trap: some trap name
 > * Trap information with **scannable bolding**;
