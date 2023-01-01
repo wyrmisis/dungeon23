@@ -53,3 +53,42 @@ Optional longer form information goes after the room details block. This can con
 > 
 > A room can have multiple inhabitant blocks; just add the condition for the extra slate of inhabitants to the title.
 
+# Level template
+Copy and paste everything after the rule to start a new level.
+
+---
+## Overview
+## Factions Present
+## Random Encounters
+## Room Keys
+### 1. 
+### 2. 
+### 3. 
+### 4. 
+### 5. 
+### 6. 
+### 7. 
+### 8. 
+### 9. 
+### 10. 
+### 11. 
+### 12. 
+### 13. 
+### 14. 
+### 15. 
+### 16. 
+### 17. 
+### 18. 
+### 19. 
+### 20. 
+### 21. 
+### 22. 
+### 23. 
+### 24. 
+### 25. 
+### 26. 
+### 27. 
+### 28. 
+### 29. 
+### 30. 
+### 31. 
