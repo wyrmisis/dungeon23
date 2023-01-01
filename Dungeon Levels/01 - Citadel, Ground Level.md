@@ -1,3 +1,9 @@
+```leaflet
+id: level-01-map
+image: 
+unit: feet
+```
+
 Room ideas, from ChatGPT:
 ```
 1.  Overgrown garden courtyard with a broken fountain
