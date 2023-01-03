@@ -1,0 +1,1 @@
+A band of Gnollish cultists who have turned their backs on their curse of hunger to follow the path of a god of endless suffering.

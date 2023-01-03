@@ -1,0 +1,1 @@
+A well-to-do elf who claims that, by birthright, the Citadel and its grounds are his property. He's hiring adventurers to clear it out so he can commission laborers to rebuild it.

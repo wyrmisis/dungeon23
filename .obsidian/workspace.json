@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db3b1a79951a359a",
+        "id": "d4a233b15f8fbe82",
         "type": "tabs",
         "children": [
           {
-            "id": "39d6dbe6ef3e3623",
+            "id": "d7ddd0750f636368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
+                "file": "Factions/The Court of Briars.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
+                "file": "Factions/The Court of Briars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
+                "file": "Factions/The Court of Briars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md"
+                "file": "Factions/The Court of Briars.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "39d6dbe6ef3e3623",
+  "active": "d7ddd0750f636368",
   "lastOpenFiles": [
-    "Dungeon Levels/Readme.md",
-    "Dungeon Levels/01 - Citadel, Ground Level.md",
+    "Factions/The Claimant.md",
+    "Factions/The Blessed of Yngdala.md",
+    "Factions/The Proto-Elves.md",
+    "Dungeon Levels/09 - Platinum.md",
+    "Dungeon Levels/05 - The Wormways.md",
+    "Dungeon Levels/06 - Arcane Laboratory.md",
+    "Dungeon Levels/07 - Arcane Laboratory, Research Outpost.md",
+    "Dungeon Levels/08 - The Interface.md",
     "Dungeon Levels/00 - Citadel, Upper Level.md",
-    "Factions/The Court of Briars.md",
-    "zzMoodboard/Readme.md",
-    "zzMoodboard/Connective Tissue.md",
-    "level-01-clean.md",
-    "The Wider World/The Weald.md",
-    "The Wider World/The Outpost.md",
-    "Bestiary/Readme.md"
+    "Factions/The Void.md"
   ]
 }
