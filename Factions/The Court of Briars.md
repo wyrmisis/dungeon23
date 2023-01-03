@@ -1,1 +1,1 @@
-Fae magicks bind the souls of the Citadel's last inhabitants to this ruin. So long as plant life and corpses fill 
+Fae magicks bind the souls of the Citadel's last inhabitants to this ruin. Led by the Lady-Commander of Briarhedge Hall, 
