@@ -51,14 +51,14 @@ The Paragons are as follows:
 #### The Scholar
 *A robed figure with arms tucked into sleeves. Scrolls are pinned between its arm and torso.* 
 * **Accepted offering**: Texts containing ancient lore and secrets
-* **Reward**: @todo
-* **Frequency**: @todo
+* **Reward**: An augured answer to a question, delivered to the donor telepathically. If the question is about something deep in the dungeon, then the answer should become equally cryptic. This holds true until Level 07, at which point the "answers" become a maddening silence that inflicts 3d6 damage and stuns the donor for 1d4 turns.
+* **Frequency**: Once per month per character
 
 #### The Seneschal
 *A finely dressed figure holding a delicate sabre, tip planted into its plinth.*
-* **Accepted offering**: @todo
-* **Reward**: @todo
-* **Frequency**: @todo
+* **Accepted offering**: Currency, at least 1000gp worth.
+* **Reward**: Half as much XP
+* **Frequency**: Once per month per character
 
 #### The Survivor
 *A muscular, stern-eyed survivalist. They stand at attention with a spear in one hand*
@@ -87,7 +87,7 @@ This is the Well Chamber for this level. The Well is a major feature of the dung
 * If the Well Chamber of the next level down hasn't been observed, any object placed over the Well will disappear as soon as it is no longer perceived by anyone.
 * Falling into the well is to fall into oblivion; there will be no body to recover, no matter how deeply the adventurers delve.
 
-This specific Well Chamber is avoided by the Court of Briars, after a few too many Thorned Bones fell into the Well. While their corporeal forms are disposable, the Well also devours the souls of those who fall into it. Souls are of limited supply.
+This specific Well Chamber is avoided by the Court of Briars, after a few too many Thorned Bones fell into the Well. While their corporeal forms are disposable, the Well also devours the souls of those who fall into it. Souls are the only finite resource of the Court of Briars, and are safeguarded when at all possible.
 
 ### 4. 
 ### 5. 
