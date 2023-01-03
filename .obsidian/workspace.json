@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
+                "file": "Dungeon Levels/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
+                "file": "Dungeon Levels/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
+                "file": "Dungeon Levels/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon Levels/01 - Citadel, Ground Level.md"
+                "file": "Dungeon Levels/Readme.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "d7ddd0750f636368",
   "lastOpenFiles": [
-    "Dungeon Levels/Readme.md",
     "Dungeon Levels/Style Guide.md",
+    "Dungeon Levels/01 - Citadel, Ground Level.md",
+    "Dungeon Levels/Readme.md",
+    "Dungeon Levels/00 - Citadel, Upper Level.md",
     "Dungeon Levels/Untitled.md",
     "Dungeon Levels/05 - The Wormways.md",
     "Dungeon Levels/06 - Arcane Laboratory.md",
-    "Dungeon Levels/01 - Citadel, Ground Level.md",
     "Factions/The Court of Briars.md",
     "Factions/The Claimant.md",
-    "Factions/The Blessed of Yngdala.md",
-    "Factions/The Proto-Elves.md"
+    "Factions/The Blessed of Yngdala.md"
   ]
 }

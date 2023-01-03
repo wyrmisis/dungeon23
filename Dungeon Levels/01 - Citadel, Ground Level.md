@@ -87,7 +87,7 @@ This is the Well Chamber for this level. The Well is a major feature of the dung
 * If the Well Chamber of the next level down hasn't been observed, any object placed over the Well will disappear as soon as it is no longer perceived by anyone.
 * Falling into the well is to fall into oblivion; there will be no body to recover, no matter how deeply the adventurers delve.
 
-This specific Well Chamber is avoided by the Court of Briars, after a few too many Thorned Bones fell into the Well. While their corporeal forms are disposable, the Well also devours the souls of those who fall into it. Souls are the only finite resource of the Court of Briars, and are safeguarded when at all possible.
+Random encounters do not happen here. This specific Well Chamber is avoided by the Court of Briars, after a few too many Thorned Bones fell into the Well. While their corporeal forms are disposable, the Well also devours the souls of those who fall into it. Souls are the only finite resource of the Court of Briars, and are safeguarded when at all possible.
 
 ### 4. 
 ### 5. 
