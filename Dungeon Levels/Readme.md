@@ -1,6 +1,31 @@
 This folder will contain notes for each dungeon level.
 
 ## Table of Contents
+- [[#Progress|Progress]]
+- [[#Dungeon Overview|Dungeon Overview]]
+	- [[#Dungeon Overview#The Citadel|The Citadel]]
+		- [[#The Citadel#Construction|Construction]]
+		- [[#The Citadel#The Well|The Well]]
+		- [[#The Citadel#Layout and Purpose|Layout and Purpose]]
+	- [[#Dungeon Overview#The Proving Grounds|The Proving Grounds]]
+	- [[#Dungeon Overview#The Wormways|The Wormways]]
+	- [[#Dungeon Overview#The Arcane Laboratory|The Arcane Laboratory]]
+	- [[#Dungeon Overview#The Interface|The Interface]]
+	- [[#Dungeon Overview#The Void|The Void]]
+- [[#Monthly Breakdown|Monthly Breakdown]]
+	- [[#Monthly Breakdown#January|January]]
+	- [[#Monthly Breakdown#February|February]]
+	- [[#Monthly Breakdown#March|March]]
+	- [[#Monthly Breakdown#April|April]]
+	- [[#Monthly Breakdown#May|May]]
+	- [[#Monthly Breakdown#June|June]]
+	- [[#Monthly Breakdown#July|July]]
+	- [[#Monthly Breakdown#August|August]]
+	- [[#Monthly Breakdown#September|September]]
+	- [[#Monthly Breakdown#October|October]]
+	- [[#Monthly Breakdown#November|November]]
+	- [[#Monthly Breakdown#December|December]]
+
 
 ## Progress
 * [ ] The Outpost (the "safe haven" for this dungeon)
@@ -36,10 +61,6 @@ After the grounds for the Citadel were cleared, laborers discovered something st
 #### Layout and Purpose
 
 Construction on the site went relatively smoothly, with the Citadel being centered on the Well, and the grounds being developed outward from there. Three levels were initially constructed: a basement, for imprisonment and storing supplies; a main level, for day-to-day activities of a militant outpost; and an upper level, for housing officers and dignitaries, as well as state functions.
-
-#### Present Day
-
-
 
 ### The Proving Grounds
 

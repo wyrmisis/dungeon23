@@ -74,7 +74,19 @@ The Paragons are as follows:
     * Others receive a single level 1 arcane spell slot that can only be used with a randomly rolled Magic-User spell.
 * **Frequency**: Once per character
 
-### 3. 
+### 3. The Well Chamber, Level 01
+
+>[!tldr] Room Details
+> * See: a gaping **hole in the ceiling and floor**, 20ft diameter
+> * Smell: **an underground staleness**.
+> * Feel: a gentle, cool, stale breeze from the well.
+
+This is the Well Chamber for this level. The Well is a major feature of the dungeon, and works as such:
+* The Well is the primary vertical "highway" for the dungeon, and provides a level-to-level "checkpoint" for adventurers.
+* An individual can only travel to a lower or upper level if they have entered the Well Chamber for that level and observed the well.
+* If the Well Chamber of the next level down hasn't been observed, any object placed over the Well will disappear as soon as it is no longer perceived by anyone.
+* Falling into the well is to fall into oblivion; there will be no body to recover, no matter how deeply the adventurers delve.
+
 ### 4. 
 ### 5. 
 ### 6. 
