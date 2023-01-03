@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "The Wider World/The Outpost.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "The Wider World/The Outpost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "The Wider World/The Outpost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "The Wider World/The Outpost.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d7ddd0750f636368",
   "lastOpenFiles": [
+    "README.md",
     "Dungeon Levels/Readme.md",
     "Dungeon Levels/Style Guide.md",
     "Dungeon Levels/01 - Citadel, Ground Level.md",
@@ -156,7 +157,6 @@
     "Dungeon Levels/05 - The Wormways.md",
     "Dungeon Levels/06 - Arcane Laboratory.md",
     "Factions/The Court of Briars.md",
-    "Factions/The Claimant.md",
-    "Factions/The Blessed of Yngdala.md"
+    "Factions/The Claimant.md"
   ]
 }
