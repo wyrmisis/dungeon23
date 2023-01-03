@@ -19,11 +19,27 @@ This folder will contain notes for each dungeon level.
 
 ## Dungeon Overview
 
+### The Citadel
+
 Briarhedge Hall is an ancient elven fortification.  When we say "ancient", we typically speak from the human perspective: some one or two millennia old, lost to the sands of history. This place, however, is ancient even by the standards of its initial builders.
+
+#### Construction
 
 The result of collaboration between elves and dwarves, Briarhedge Hall is in remarkably good shape for a structure of its age. The Citadel, as it is colloquially known, has aged fairly gracefully, though it has been long abandoned by its elven masters for reasons that aren't entirely clear. If an event only happens if someone remembers it, then the history of the Citadel is a collective blank spot in the rich tapestry of elven history.
 
-The site of Briarhedge Hall was chosen for a few reasons: its position on the borders of elven and dwarven lands made collaboration relatively easy, the surrounding forest had already been cleared by a fire, and there was ready access to water and arable land. Chief among these reasons, however, was a sort of nexus of anomalous energy; elven culture has a strong tradition of studying the unknown, and the elves sought to .
+The site of Briarhedge Hall was chosen for a few reasons: its position on the borders of elven and dwarven lands made collaboration relatively easy, the surrounding forest had already been cleared by a fire, and there was ready access to water and arable land. Chief among these reasons, however, was a sort of nexus of anomalous energy; elven culture has a strong tradition of studying the unknown, and the elves sought to study the strange magicks of this patch of land.
+
+### The Well
+
+After the grounds for the Citadel were cleared, laborers discovered something strange amid fallen logs and ashen remnants: a hole, perfectly bored, as deep as the eye could see. This hole, named the Well by the Citadel's architects, would seemingly devour anything placed over it as soon as an observer would look away. It could not be filled in, nor could it be covered. The Well defied understanding. Immediately, elven scholars set about studying it.
+
+### Layout and Purpose
+
+Construction on the site went relatively smoothly, with the Citadel being centered on the Well, and the grounds being developed outward from there. Three levels were initially constructed: a basement, for imprisonment and storing supplies; a main level, for day-to-day activities of a militant outpost; and an upper level, for housing officers and dignitaries, as well as state functions.
+
+### The Proving Grounds
+
+The Citadel's importance in elven society grew as time went on; Briarhedge Hall was a desirable post, and the elven gentry would jockey for their children to be stationed 
 
 ## Monthly Breakdown
 
