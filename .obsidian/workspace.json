@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Wider World/The Outpost.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f02a213e24ee5277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon Levels/Style Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Wider World/The Outpost.md",
+                "file": "Dungeon Levels/Style Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Wider World/The Outpost.md",
+                "file": "Dungeon Levels/Style Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Wider World/The Outpost.md"
+                "file": "Dungeon Levels/Style Guide.md"
               }
             }
           }
@@ -146,14 +159,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d7ddd0750f636368",
+  "active": "f02a213e24ee5277",
   "lastOpenFiles": [
+    "Dungeon Levels/01 - Citadel, Ground Level.md",
+    "Dungeon Levels/Style Guide.md",
     "The Wider World/The Weald.md",
     "The Wider World/The Outpost.md",
     "README.md",
     "Dungeon Levels/Readme.md",
-    "Dungeon Levels/Style Guide.md",
-    "Dungeon Levels/01 - Citadel, Ground Level.md",
     "Dungeon Levels/00 - Citadel, Upper Level.md",
     "Dungeon Levels/Untitled.md",
     "Dungeon Levels/05 - The Wormways.md",

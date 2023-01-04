@@ -77,7 +77,7 @@ The Paragons are as follows:
 ### 3. The Well Chamber, Level 01
 
 >[!tldr] Room Details
-> * See: a gaping **hole in the ceiling and floor**, 20ft diameter
+> * See: a gaping **hole in the ceiling and floor**, 20ft diameter; shaped metal sconces along the walls at regular intervals
 > * Smell: **an underground staleness**.
 > * Feel: a gentle, cool, stale breeze from the well.
 
@@ -88,6 +88,11 @@ This is the Well Chamber for this level. The Well is a major feature of the dung
 * Falling into the well is to fall into oblivion; there will be no body to recover, no matter how deeply the adventurers delve.
 
 Random encounters do not happen here. This specific Well Chamber is avoided by the Court of Briars, after a few too many Thorned Bones fell into the Well. While their corporeal forms are disposable, the Well also devours the souls of those who fall into it. Souls are the only finite resource of the Court of Briars, and are safeguarded when at all possible.
+
+> [!question] Secret Door 
+> * Southeastern wall
+> * Opens from the west by pulling a sconce down
+> * Opens from the east by pulling a handle on the door
 
 ### 4. 
 ### 5. 
