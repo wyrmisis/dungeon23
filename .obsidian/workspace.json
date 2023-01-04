@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon Levels/Style Guide.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon Levels/Style Guide.md",
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon Levels/Style Guide.md"
+                "file": "Dungeon Levels/01 - Citadel, Ground Level.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f02a213e24ee5277",
+  "active": "d7ddd0750f636368",
   "lastOpenFiles": [
-    "Dungeon Levels/01 - Citadel, Ground Level.md",
     "Dungeon Levels/Style Guide.md",
+    "Dungeon Levels/01 - Citadel, Ground Level.md",
     "The Wider World/The Weald.md",
     "The Wider World/The Outpost.md",
     "README.md",

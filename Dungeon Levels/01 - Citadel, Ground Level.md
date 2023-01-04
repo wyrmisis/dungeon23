@@ -77,8 +77,8 @@ The Paragons are as follows:
 ### 3. The Well Chamber, Level 01
 
 >[!tldr] Room Details
-> * See: a gaping **hole in the ceiling and floor**, 20ft diameter; shaped metal sconces along the walls at regular intervals
-> * Smell: **an underground staleness**.
+> * See: a gaping **hole in the ceiling and floor**, 20ft diameter; shaped metal **sconces** along the walls at regular intervals, **sunlight** from above, lush **vegetation** 
+> * Smell: **an underground staleness**
 > * Feel: a gentle, cool, stale breeze from the well.
 
 This is the Well Chamber for this level. The Well is a major feature of the dungeon, and works as such:
@@ -94,7 +94,19 @@ Random encounters do not happen here. This specific Well Chamber is avoided by t
 > * Opens from the west by pulling a sconce down
 > * Opens from the east by pulling a handle on the door
 
-### 4. 
+### 4. Hall of Vines and Bones
+
+>[!tldr] Room Details
+> * See: A pair of **pillars** carved to appear to be wrapped in ivy; blue-green **vines** and **bones** in a thick carpet on the floor
+> * Smell: **earthy**, **musty**, the odor of the **grave**
+> * Hear: a gentle, cool, stale **breeze** from the south, an occasional **rustling** from the vines and bones.
+
+This ro
+
+> [!danger] Trap: Sentinel Creeper
+> * If **harmed or touched** by a living being, **alerts nearby Court of Briars guards** 
+> * Roll **2d6 under Dexterity** to navigate safely
+
 ### 5. 
 ### 6. 
 ### 7. 
