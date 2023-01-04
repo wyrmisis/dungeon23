@@ -101,11 +101,14 @@ Random encounters do not happen here. This specific Well Chamber is avoided by t
 > * Smell: **earthy**, **musty**, the odor of the **grave**
 > * Hear: a gentle, cool, stale **breeze** from the south, an occasional **rustling** from the vines and bones.
 
-This ro
+This room is a later addition to the Citadel, built when the first level of the Proving Grounds was excavated. It is currently used by the Court of Briars as a guard post. The "guards", a pack of thorned bones, are not populated with souls (and thus, not animated) until the trap in this room is tripped.
 
 > [!danger] Trap: Sentinel Creeper
-> * If **harmed or touched** by a living being, **alerts nearby Court of Briars guards** 
+> * If **harmed or touched** by a living being, **awakens the Thorned Bones**  in this room 
 > * Roll **2d6 under Dexterity** to navigate safely
+
+> [!info] Inhabitants (if Sentinel Creeper is tripped)
+> * 8 Thorned Bones
 
 ### 5. 
 ### 6. 

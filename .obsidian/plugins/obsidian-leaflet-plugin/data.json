@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "level-01-map",
-      "lastAccessed": 1672838766401,
+      "lastAccessed": 1672840009004,
       "markers": [
         {
           "id": "ID_6aa8da1a2b1b",
@@ -72,6 +72,26 @@
           "percent": [
             0.487672851027362,
             0.5043075980392157
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894979db59db",
+          "type": "default",
+          "loc": [
+            -5.84259033203125,
+            9.75046540108216
+          ],
+          "link": "01 - Citadel, Ground Level#4. Hall of Vines and Bones",
+          "layer": "%5B%5Blevel-01-clean.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48943512601510447,
+            0.2932751225490196
           ],
           "description": null,
           "minZoom": null,
