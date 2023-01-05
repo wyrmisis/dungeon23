@@ -124,9 +124,10 @@ This room is a later addition to the Citadel, built when the first level of the 
 > * Disabled by destroying its root bulb, found in [[02 - Citadel, Lower Level]]
 
 > [!example]  Treasure
-> * 129gp, 226sp, 249cp on the corpses in the vines
+> * 129gp, 226sp, 249cp on the corpses in the vines, from the north
+> * A small pouch full of gems (7x 50gp gems, 3x 100gp gems), from the south. It's clutched in the hand of a dead adventurer whose arm pokes out of the wall.
 > * An heirloom elvish **heartseeker spear** (spear +1, +2 when thrown) tangled deep inside the vines (must first disable the wall)
-> * A bag of gems
+
 
 ### 6. 
 ### 7. 
