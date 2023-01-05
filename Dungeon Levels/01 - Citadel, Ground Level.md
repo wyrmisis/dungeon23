@@ -110,7 +110,17 @@ This room is a later addition to the Citadel, built when the first level of the 
 > [!info] Inhabitants (if Sentinel Creeper is tripped)
 > * 8 Thorned Bones
 
-### 5. 
+### 5. Northern Entrance
+
+>[!tldr] Room Details
+> * See: a choking mass of **vegetation** in various states of decomposition that blocks the south corridor; **corpses** embedded in the vegetation 
+> * Smell: **Rotting vegetation**, **decomposing flesh**
+> * Hear: **Insects**, a subdued **stretching** and **creaking** from inside the vines
+
+> [!danger] Trap: Sentinel Creeper
+> * If **harmed or touched** by a living being, **awakens the Thorned Bones**  in this room 
+> * Roll **2d6 under Dexterity** to navigate safely
+
 ### 6. 
 ### 7. 
 ### 8. 
