@@ -113,13 +113,20 @@ This room is a later addition to the Citadel, built when the first level of the 
 ### 5. Northern Entrance
 
 >[!tldr] Room Details
-> * See: a choking mass of **vegetation** in various states of decomposition that blocks the south corridor; **corpses** embedded in the vegetation 
+> * See: a choking mass of **vegetation** in various states of decomposition that blocks the south corridor; **corpses** embedded in the vegetation in various stages of decomposition 
 > * Smell: **Rotting vegetation**, **decomposing flesh**
 > * Hear: **Insects**, a subdued **stretching** and **creaking** from inside the vines
 
-> [!danger] Trap: Sentinel Creeper
-> * If **harmed or touched** by a living being, **awakens the Thorned Bones**  in this room 
-> * Roll **2d6 under Dexterity** to navigate safely
+> [!danger] Trap: Grasping Wall
+> * Grabs a **living creature** that comes within **10ft** from north or south
+> * 3d6 under STR to escape
+> * AC 12, 10hp damage with a cutting weapon to free someone
+> * Disabled by destroying its root bulb, found in [[02 - Citadel, Lower Level]]
+
+> [!example]  Treasure
+> * 129gp, 226sp, 249cp on the corpses in the vines
+> * An heirloom elvish **heartseeker spear** (spear +1, +2 when thrown) tangled deep inside the vines (must first disable the wall)
+> * A bag of gems
 
 ### 6. 
 ### 7. 
