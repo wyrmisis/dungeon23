@@ -127,8 +127,8 @@ This room is a later addition to the Citadel, built when the first level of the 
 > * 129gp, 226sp, 249cp on the corpses in the vines, from the north
 > * A small pouch full of gems (7x 50gp gems, 3x 100gp gems), from the south. It's clutched in the hand of a dead adventurer whose arm pokes out of the wall.
 > * An heirloom elvish **heartseeker spear** (spear +1, +2 when thrown) tangled deep inside the vines (must first disable the wall)
-> * Two scrying mirrors on the east wall, trapped beneath the vines. Their matches are in **1-6b**.
-> * Two inactive scrying mirrors on the west wall, trapped beneath the vines. Their matches in **1-6a** were destroyed.
+> * Two scrying mirrors on the east wall, trapped beneath the vines. Their matches are in **1-6b**. Each coupled set is worth 1000g, and weighs 400 coins per mirror. 
+> * Two inactive scrying mirrors on the west wall, trapped beneath the vines. Their matches in **1-6a** were destroyed. Each uncoupled mirror is worth 20g, and weighs 400 coins per mirror. 
 
 
 ### 6. Northern Guard Posts
@@ -138,7 +138,7 @@ This room is a later addition to the Citadel, built when the first level of the 
 > * Hear: trickling **water** from above
 
 >[!tldr] Room Details (b)
-> * See: decayed **racks of polearms**;  dust-covered, frameless **glass panes** that depict a vine-covered darkness
+> * See: decayed **racks of polearms**;  dust-covered, frameless **glass panes** that depict darkness
 > * Hear: trickling **water** from above
 
 These guard posts were similar in construction, contents, and purpose: smaller chambers where guards would stand watch, observing the northern entrance through scrying mirrors.
@@ -149,7 +149,7 @@ Clearing the rubble in **1-6a** will provide an alternate route to the upper lev
 
 > [!example]  Treasure (b)
 > * A mildewed linen mural depicting the construction of the Citadel, worth 375gp to a historian or collector if restored. It weighs 150 coins.
-> * Two scrying mirrors on the west wall. Their matches are in **1-5**.
+> * Two scrying mirrors on the west wall. Their matches are in **1-5**. Each coupled set is worth 1000g, and weighs 400 coins per mirror. 
 
 
 ### 7. 
