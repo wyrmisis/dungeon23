@@ -120,36 +120,36 @@ This room is a later addition to the Citadel, built when the first level of the 
 > [!danger] Trap: Grasping Wall
 > * Grabs a **living creature** that comes within **10ft** from north or south
 > * 3d6 under STR to escape
-> * AC 12, 10hp damage with a cutting weapon to free someone
+> * AC 7 (12), 10hp damage with a cutting weapon to free someone
 > * Disabled by destroying its root bulb, found in [[02 - Citadel, Lower Level]]
 
 > [!example]  Treasure
 > * 129gp, 226sp, 249cp on the corpses in the vines, from the north
 > * A small pouch full of gems (7x 50gp gems, 3x 100gp gems), from the south. It's clutched in the hand of a dead adventurer whose arm pokes out of the wall.
 > * An heirloom elvish **heartseeker spear** (spear +1, +2 when thrown) tangled deep inside the vines (must first disable the wall)
-> * Two scrying mirrors on the east wall, trapped beneath the vines. Their matches are in 6b.
-> * Two inactive scrying mirrors on the west wall, trapped beneath the vines. Their matches in 6a were destroyed.
+> * Two scrying mirrors on the east wall, trapped beneath the vines. Their matches are in **1-6b**.
+> * Two inactive scrying mirrors on the west wall, trapped beneath the vines. Their matches in **1-6a** were destroyed.
 
 
 ### 6. Northern Guard Posts
 
->[!tldr] Room Details (A)
+>[!tldr] Room Details (a)
 > * See: a **collapsed chamber** 
 > * Hear: trickling **water** from above
 
->[!tldr] Room Details (B)
+>[!tldr] Room Details (b)
 > * See: decayed **racks of polearms**;  dust-covered, frameless **glass panes** that depict a vine-covered darkness
 > * Hear: trickling **water** from above
 
 These guard posts were similar in construction, contents, and purpose: smaller chambers where guards would stand watch, observing the northern entrance through scrying mirrors.
 
-While the mirrors in 6a were destroyed when the floor above collapsed, the mirrors in the intact chamber are still intact. Unfortunately, their opposites are trapped beneath the offshoots of the northern entrance's Grasping Wall. Destroying the Wall's root bulb would free the mirrors.
+While the mirrors in **1-6a** were destroyed when the floor above collapsed, the mirrors in **1-6b** are still intact. Unfortunately, their opposites are trapped beneath the vines covering the walls of **1-5**. Destroying the grasping wall's root bulb would free the mirrors.
 
-Clearing the rubble in 6a will provide an alternate route to the upper level, though the floor is weakened significantly by the collapse; there's a 1-in-6 chance that carrying more than 1000 coins of weight into the room will cause the floor to collapse into the lower level.
+Clearing the rubble in **1-6a** will provide an alternate route to the upper level, though the floor is weakened significantly by the collapse; there's a 1-in-6 chance that carrying more than 1000 coins of weight into the room will cause the floor to collapse into the lower level.
 
 > [!example]  Treasure (b)
-> * A mildewed linen mural depicting the construction of the Citadel, worth 375gp to a historian or collector if restored. 
-> * Two scrying mirrors on the west wall. Their matches are in 5.
+> * A mildewed linen mural depicting the construction of the Citadel, worth 375gp to a historian or collector if restored. It weighs 150 coins.
+> * Two scrying mirrors on the west wall. Their matches are in **1-5**.
 
 
 ### 7. 
