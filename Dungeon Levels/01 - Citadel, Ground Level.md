@@ -127,7 +127,8 @@ This room is a later addition to the Citadel, built when the first level of the 
 > * 129gp, 226sp, 249cp on the corpses in the vines, from the north
 > * A small pouch full of gems (7x 50gp gems, 3x 100gp gems), from the south. It's clutched in the hand of a dead adventurer whose arm pokes out of the wall.
 > * An heirloom elvish **heartseeker spear** (spear +1, +2 when thrown) tangled deep inside the vines (must first disable the wall)
-> * Two scrying mirrors, trapped beneath the vines. Their matches are   
+> * Two scrying mirrors on the east wall, trapped beneath the vines. Their matches are in 6b.
+> * Two inactive scrying mirrors on the west wall, trapped beneath the vines. Their matches in 6a were destroyed.
 
 
 ### 6. Northern Guard Posts
@@ -142,7 +143,14 @@ This room is a later addition to the Citadel, built when the first level of the 
 
 These guard posts were similar in construction, contents, and purpose: smaller chambers where guards would stand watch, observing the northern entrance through scrying mirrors.
 
-While the mirrors in the collapsed chamber were destroyed when the floor above collapsed, the mirrors in the intact chamber are still intact. Unfortunately, their opposites are trapped beneath the offshoots of the northern entrance's Grasping Wall. Destroying the Wall's root bulb would free the mirrors.
+While the mirrors in 6a were destroyed when the floor above collapsed, the mirrors in the intact chamber are still intact. Unfortunately, their opposites are trapped beneath the offshoots of the northern entrance's Grasping Wall. Destroying the Wall's root bulb would free the mirrors.
+
+Clearing the rubble in 6a will provide an alternate route to the upper level, though the floor is weakened significantly by the collapse; there's a 1-in-6 chance that carrying more than 1000 coins of weight into the room will cause the floor to collapse into the lower level.
+
+> [!example]  Treasure (b)
+> * A mildewed linen mural depicting the construction of the Citadel, worth 375gp to a historian or collector if restored. 
+> * Two scrying mirrors on the west wall. Their matches are in 5.
+
 
 ### 7. 
 ### 8. 
