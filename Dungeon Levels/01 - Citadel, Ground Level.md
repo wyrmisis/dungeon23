@@ -113,7 +113,7 @@ This room is a later addition to the Citadel, built when the first level of the 
 ### 5. Northern Entrance
 
 >[!tldr] Room Details
-> * See: a choking mass of **vegetation** in various states of decomposition that blocks the south corridor; **corpses** embedded in the vegetation in various stages of decomposition 
+> * See: **vines** cover the room; a choking mass of **vegetation** in various states of decomposition that blocks the south corridor; **corpses** embedded in the vegetation in various stages of decomposition 
 > * Smell: **Rotting vegetation**, **decomposing flesh**
 > * Hear: **Insects**, a subdued **stretching** and **creaking** from inside the vines
 
@@ -127,6 +127,7 @@ This room is a later addition to the Citadel, built when the first level of the 
 > * 129gp, 226sp, 249cp on the corpses in the vines, from the north
 > * A small pouch full of gems (7x 50gp gems, 3x 100gp gems), from the south. It's clutched in the hand of a dead adventurer whose arm pokes out of the wall.
 > * An heirloom elvish **heartseeker spear** (spear +1, +2 when thrown) tangled deep inside the vines (must first disable the wall)
+> * Two scrying mirrors, trapped beneath the vines. Their matches are   
 
 
 ### 6. Northern Guard Posts
@@ -136,10 +137,12 @@ This room is a later addition to the Citadel, built when the first level of the 
 > * Hear: trickling **water** from above
 
 >[!tldr] Room Details (B)
-> * See: a 
+> * See: decayed **racks of polearms**;  dust-covered, frameless **glass panes** that depict a vine-covered darkness
 > * Hear: trickling **water** from above
 
-These guard posts were similar in construction and contents.
+These guard posts were similar in construction, contents, and purpose: smaller chambers where guards would stand watch, observing the northern entrance through scrying mirrors.
+
+While the mirrors in the collapsed chamber were destroyed when the floor above collapsed, the mirrors in the intact chamber are still intact. Unfortunately, their opposites are trapped beneath the offshoots of the northern entrance's Grasping Wall. Destroying the Wall's root bulb would free the mirrors.
 
 ### 7. 
 ### 8. 
