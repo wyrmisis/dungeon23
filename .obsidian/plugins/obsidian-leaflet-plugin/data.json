@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "level-01-map",
-      "lastAccessed": 1672929168043,
+      "lastAccessed": 1673008807462,
       "markers": [
         {
           "id": "ID_6aa8da1a2b1b",
@@ -106,6 +106,22 @@
             9.851003115806893
           ],
           "link": "01 - Citadel, Ground Level#5. Northern Entrance",
+          "layer": "%5B%5Blevel-01-clean.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8acadb09b8a9",
+          "type": "default",
+          "loc": [
+            -1.911376953125,
+            8.038908187119143
+          ],
           "layer": "%5B%5Blevel-01-clean.png%5D%5D",
           "mutable": true,
           "command": false,

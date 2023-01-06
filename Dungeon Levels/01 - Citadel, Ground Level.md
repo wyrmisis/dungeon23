@@ -129,7 +129,18 @@ This room is a later addition to the Citadel, built when the first level of the 
 > * An heirloom elvish **heartseeker spear** (spear +1, +2 when thrown) tangled deep inside the vines (must first disable the wall)
 
 
-### 6. 
+### 6. Northern Guard Posts
+
+>[!tldr] Room Details (A)
+> * See: a **collapsed chamber** 
+> * Hear: trickling **water** from above
+
+>[!tldr] Room Details (B)
+> * See: a 
+> * Hear: trickling **water** from above
+
+These guard posts were similar in construction and contents.
+
 ### 7. 
 ### 8. 
 ### 9. 
