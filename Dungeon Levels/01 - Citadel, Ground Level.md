@@ -152,7 +152,14 @@ Clearing the rubble in **1-6a** will provide an alternate route to the upper lev
 > * Two scrying mirrors on the west wall. Their matches are in **1-5**. Each coupled set is worth 1000g, and weighs 400 coins per mirror. 
 
 
-### 7. 
+### 7. Shrine to the Paragons
+
+>[!tldr] Room Details
+> * See: four **bas reliefs**, three of which are damaged beyond recovery; a filthy, though otherwise intact **cushion**; an **altar** with an empty ceramic **plate**. 
+> * Smell: **Dust**; long-burnt-away **incense**.
+
+This room is a small shrine to the Elven Paragons (see **1-2**). Each bas relief is a 10ft square, and  
+
 ### 8. 
 ### 9. 
 ### 10. 
