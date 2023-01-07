@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "level-01-map",
-      "lastAccessed": 1673100927842,
+      "lastAccessed": 1673100944516,
       "markers": [
         {
           "id": "ID_6aa8da1a2b1b",
@@ -153,13 +153,17 @@
           "id": "ID_bbdbb898297a",
           "type": "default",
           "loc": [
-            -3.5258941650390625,
-            11.562601088275176
+            -3.53460693359375,
+            11.511585983465539
           ],
+          "link": "01 - Citadel, Ground Level#7. Shrine to the Paragons",
           "layer": "%5B%5Blevel-01-clean.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.5778364728955251,
+            0.1774234068627451
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
