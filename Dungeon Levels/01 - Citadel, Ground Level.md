@@ -158,7 +158,15 @@ Clearing the rubble in **1-6a** will provide an alternate route to the upper lev
 > * See: four **bas reliefs**, three of which are damaged beyond recovery; a filthy, though otherwise intact **cushion**; an **altar** with an empty ceramic **plate**. 
 > * Smell: **Dust**; long-burnt-away **incense**.
 
-This room is a small shrine to the Elven Paragons (see **1-2**). Each bas relief is a 10ft square, and  
+This room is a small shrine to the Elven Paragons (see **1-2**). Each bas relief is a 10ft square placed on the eastern and western walls, and three of them have been damaged to the point of being unrecognizable. Only one sculpture remains intact, that of *The Scholar*. 
+
+The intact relief depicts the Scholar accepting a tablet from a group of younger elves, and offering a scroll in return. The relief does not contain any words.
+
+This relief is meant to serve as a hint for players: give the scholar old lore, and they may give you knowledge in return.
+
+> [!example]  Treasure
+> * A filthy, but otherwise fine cushion. It has been enchanted to never decay. Worth 50g to a human of means, but fairly commonplace in elven society.
+
 
 ### 8. 
 ### 9. 
