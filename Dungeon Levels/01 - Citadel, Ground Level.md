@@ -171,12 +171,16 @@ This relief is meant to serve as a hint for players: give the scholar old lore, 
 ### 8. Overgrown Gardens
 
 >[!tldr] Room Details
-> * See: Lush, wild, untamed **gardens**; **sunlight** from above at all hours; 
+> * See: Lush, wild, untamed **gardens**; **sunlight** from above that simulates a midsummer's day/night cycle 
 > * Smell: Rotting **vegetation**; mildew and mold
-> * Hear: Dripping **water**
+> * Hear: Dripping **water**; buzzing insects
 > * Feel: Humid **warmth**, regardless of time of year
 
-Living within stone walls has an ill effect on the naturally free-spirited elven people. To alleviate potential crises of morale among those stationed at the Citadel, elven magicks and dwarven engineering were combined to create the everlasting gardens found throughout the first level of the Citadel.  
+To alleviate potential crises of morale among those stationed at the Citadel, elven magicks and dwarven engineering were combined to create the everlasting gardens found throughout the first level of the Citadel.  
+
+The "sunlight" in this room is a permutation of a *Continual Light* spell devised to impart the benefits of the sun's rays. The water that intermittently sprays the garden beds from above and below comes from a network of cisterns in [[02 - Citadel, Lower Level]], which are plumbed through . 
+
+Magic-users, druids, and the like will find no shortage of reagents in the gardens. However, random encounters have a 3-in-6 chance of surprising the party in a garden, due to the untamed growth.
 
 ### 9. 
 ### 10. 
