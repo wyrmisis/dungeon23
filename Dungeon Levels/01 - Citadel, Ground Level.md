@@ -168,7 +168,16 @@ This relief is meant to serve as a hint for players: give the scholar old lore, 
 > * A filthy, but otherwise fine cushion. It has been enchanted to never decay. Worth 50g to a human of means, but fairly commonplace in elven society.
 
 
-### 8. 
+### 8. Overgrown Gardens
+
+>[!tldr] Room Details
+> * See: Lush, wild, untamed **gardens**; **sunlight** from above at all hours; 
+> * Smell: Rotting **vegetation**; mildew and mold
+> * Hear: Dripping **water**
+> * Feel: Humid **warmth**, regardless of time of year
+
+Living within stone walls has an ill effect on the naturally free-spirited elven people. To alleviate potential crises of morale among those stationed at the Citadel, elven magicks and dwarven engineering were combined to create the everlasting gardens found throughout the first level of the Citadel.  
+
 ### 9. 
 ### 10. 
 ### 11. 

@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "level-01-map",
-      "lastAccessed": 1673100944516,
+      "lastAccessed": 1673194138540,
       "markers": [
         {
           "id": "ID_6aa8da1a2b1b",
@@ -164,6 +164,22 @@
             0.5778364728955251,
             0.1774234068627451
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb0b09eb2979",
+          "type": "default",
+          "loc": [
+            -3.93182373046875,
+            13.932467799498319
+          ],
+          "layer": "%5B%5Blevel-01-clean.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
