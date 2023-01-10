@@ -178,11 +178,19 @@ This relief is meant to serve as a hint for players: give the scholar old lore, 
 
 To alleviate potential crises of morale among those stationed at the Citadel, elven magicks and dwarven engineering were combined to create the everlasting gardens found throughout the first level of the Citadel.  
 
-The "sunlight" in this room is a permutation of a *Continual Light* spell devised to impart the benefits of the sun's rays. The water that intermittently sprays the garden beds from above and below comes from a network of cisterns in [[02 - Citadel, Lower Level]], which are plumbed through . 
+The "sunlight" in this room is a permutation of a *Continual Light* spell devised to impart the benefits of the sun's rays. The water that intermittently sprays the garden beds from above and below comes from a network of cisterns in [[02 - Citadel, Lower Level]], which are plumbed through mythril pipes. 
 
 Magic-users, druids, and the like will find no shortage of reagents in the gardens. However, random encounters have a 3-in-6 chance of surprising the party in a garden, due to the untamed growth.
 
-### 9. 
+### 9.  Privy
+
+>[!tldr] Room Details
+> * See: Creeping **vines** bursting from multiple stone seats; stone washing **basins** fed with water from mythril **faucets**
+> * Smell: **Earthy**; hint of underground **staleness**
+> * Hear: Dripping **water**
+
+There are four toilets here, once divided by wooden partition walls. 
+
 ### 10. 
 ### 11. 
 ### 12. 
