@@ -110,6 +110,10 @@ This room is a later addition to the Citadel, built when the first level of the 
 > [!info] Inhabitants (if Sentinel Creeper is tripped)
 > * 8 Thorned Bones
 
+> [!question] Secret Door 
+> * Eastern wall
+> * Opens from either side by pressing in a brick that glows after speaking the phrase "down the well" in elvish.
+
 ### 5. Northern Entrance
 
 >[!tldr] Room Details
@@ -202,11 +206,24 @@ Vines from the grasping wall (see [[#5. Northern Entrance]]) have penetrated int
 ### 10. Research Station
 
 >[!tldr] Room Details
-> * See: Tattered and aged **parchment**; stone **desks** and **seats**; a pair of **corpses**, their bones showing signs of humanoid **bites**
+> * See: Tattered and aged **parchment**; stone **desks** and **seats**; a pair of **corpses**, the larger of which has humanoid **tooth marks** on its bones
 > * Smell: Choking **dust**
 > * Feel: A persistent **wrongness**
 
-This hidden room was used by elven arcanists to monitor the Well. 
+This hidden room was used by elven arcanists to monitor the Well. When the elves had delved too deep, an arcanist and their child sealed themselves here. They would starve after a time. Before the end, the arcanist fed themselves to their child.
+
+The child was trapped in the room, having never figured out the mechanism to open the door, and is now a wraith.
+
+> [!info] Inhabitants
+> * A child-sized wraith.
+
+> [!question] Secret Door 
+> * Western wall
+> * Opens from either side by pressing in a brick that glows after speaking the phrase "down the well" in elvish.
+
+> [!example]  Treasure
+> * A faded, partially-complete manuscript on the nature of observed reality. An arcane caster who reads th
+> * Two scrying mirrors on the west wall. Their matches are in **1-5**. Each coupled set is worth 1000g, and weighs 400 coins per mirror. 
 
 ### 11. 
 ### 12. 
