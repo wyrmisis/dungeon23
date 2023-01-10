@@ -185,11 +185,13 @@ Magic-users, druids, and the like will find no shortage of reagents in the garde
 ### 9.  Privy
 
 >[!tldr] Room Details
-> * See: Creeping **vines** bursting from multiple stone seats; stone washing **basins** fed with water from mythril **faucets**
+> * See: Creeping **vines** bursting from multiple stone seats; stone washing **basins** fed with water from mythril **faucets**; splinters of rotting wood
 > * Smell: **Earthy**; hint of underground **staleness**
 > * Hear: Dripping **water**
 
-There are four toilets here, once divided by wooden partition walls. 
+There are four stone toilets here, once divided by wooden partition walls and sectioned off with wooden doors. Each toilet is plumbed with clay pipes, which were configured to direct waste to a septic system in [[02 - Citadel, Lower Level]]. Vines from the grasping wall (see [[#5. Northern Entrance]]) have penetrated into this room, and will grab any who come near.
+
+
 
 ### 10. 
 ### 11. 
