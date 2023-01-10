@@ -222,8 +222,8 @@ The child was trapped in the room, having never figured out the mechanism to ope
 > * Opens from either side by pressing in a brick that glows after speaking the phrase "down the well" in elvish.
 
 > [!example]  Treasure
-> * A faded, partially-complete manuscript on the nature of observed reality. An arcane caster who reads th
-> * Two scrying mirrors on the west wall. Their matches are in **1-5**. Each coupled set is worth 1000g, and weighs 400 coins per mirror. 
+> * A faded, partially-complete manuscript on the nature of observed reality. An arcane caster who spends 6 turns reading it will gain 1000xp, though there is a 5-in-6 chance that the manuscript will be unreadable after each read.
+> * A grimoire with several pages torn out. It contains a number of first, second, and third level Magic User spells (`@TODO`)  
 
 ### 11. 
 ### 12. 
