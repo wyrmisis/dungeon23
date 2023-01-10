@@ -119,7 +119,7 @@ This room is a later addition to the Citadel, built when the first level of the 
 
 > [!danger] Trap: Grasping Wall
 > * Grabs a **living creature** that comes within **10ft** from north or south
-> * 3d6 under STR to escape
+> * 3d6 under STR to escape, once per turn
 > * AC 7 (12), 10hp damage with a cutting weapon to free someone
 > * Disabled by destroying its root bulb, found in [[02 - Citadel, Lower Level]]
 
@@ -185,13 +185,19 @@ Magic-users, druids, and the like will find no shortage of reagents in the garde
 ### 9.  Privy
 
 >[!tldr] Room Details
-> * See: Creeping **vines** bursting from multiple stone seats; stone washing **basins** fed with water from mythril **faucets**; splinters of rotting wood
+> * See: Creeping **vines** bursting from multiple stone seats; stone washing **basins** fed with water from mythril **faucets**; splinters of rotting **wood**
 > * Smell: **Earthy**; hint of underground **staleness**
 > * Hear: Dripping **water**
 
-There are four stone toilets here, once divided by wooden partition walls and sectioned off with wooden doors. Each toilet is plumbed with clay pipes, which were configured to direct waste to a septic system in [[02 - Citadel, Lower Level]]. Vines from the grasping wall (see [[#5. Northern Entrance]]) have penetrated into this room, and will grab any who come near.
+There are four stone toilets here, once divided by wooden partition walls and sectioned off with wooden doors. Each toilet is plumbed with clay pipes, which were configured to direct waste to a septic system in [[02 - Citadel, Lower Level]]. 
 
+Vines from the grasping wall (see [[#5. Northern Entrance]]) have penetrated into this room, and will grab any who come near. They are weaker than the vines in the main wall body. If the root bulb is destroyed, part of the floor will cave in, providing another route to the ground level.
 
+> [!danger] Trap: Grasping Vessel
+> * Grabs a **living creature** that comes within **5ft** of a toilet
+> * 2d6 under STR to escape, once per turn
+> * AC 7 (12), 10hp damage with a cutting weapon to free someone
+> * Disabled by destroying its root bulb, found in [[02 - Citadel, Lower Level]]
 
 ### 10. 
 ### 11. 
