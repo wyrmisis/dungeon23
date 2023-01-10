@@ -199,7 +199,15 @@ Vines from the grasping wall (see [[#5. Northern Entrance]]) have penetrated int
 > * AC 7 (12), 10hp damage with a cutting weapon to free someone
 > * Disabled by destroying its root bulb, found in [[02 - Citadel, Lower Level]]
 
-### 10. 
+### 10. Research Station
+
+>[!tldr] Room Details
+> * See: Tattered and aged **parchment**; stone **desks** and **seats**; a pair of **corpses**, their bones showing signs of humanoid **bites**
+> * Smell: Choking **dust**
+> * Feel: A persistent **wrongness**
+
+This hidden room was used by elven arcanists to monitor the Well. 
+
 ### 11. 
 ### 12. 
 ### 13. 
