@@ -225,7 +225,17 @@ The child was trapped in the room, having never figured out the mechanism to ope
 > * A faded, partially-complete manuscript on the nature of observed reality. An arcane caster who spends 6 turns reading it will gain 1000xp, though there is a 5-in-6 chance that the manuscript will be unreadable after each read.
 > * A grimoire with several pages torn out. It contains a number of first, second, and third level Magic User spells (`@TODO`)  
 
-### 11. 
+### 11. Physician's Clinic
+
+>[!tldr] Room Details
+> * See: splintered **remains** of wooden **furniture**; **shelves** with glass phials of anomalous formulae; rusted **surgical tools**
+> * Smell: Acerbic, stinging **chemical** odor; **ozone**.
+> * Hear: a vaporous **whistling**
+
+This room was a space for convalescing soldiers and support staff. Due to the tenuous connection elves hold with the Divine, study of the medical sciences is of utmost importance in elven culture, and every notable elven military fortification has at least one embedded physician and a few apothecaries.
+
+One of the last major medical breakthroughs before the Citadel's fall was that of forced respiration 
+
 ### 12. 
 ### 13. 
 ### 14. 

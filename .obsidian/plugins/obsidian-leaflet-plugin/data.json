@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "level-01-map",
-      "lastAccessed": 1673361619745,
+      "lastAccessed": 1673443625509,
       "markers": [
         {
           "id": "ID_6aa8da1a2b1b",
@@ -228,6 +228,22 @@
             11.722704472775273
           ],
           "link": "01 - Citadel, Ground Level#10. Research Station",
+          "layer": "%5B%5Blevel-01-clean.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea796b993a8a",
+          "type": "default",
+          "loc": [
+            -5.834382723847137,
+            7.854188145322361
+          ],
           "layer": "%5B%5Blevel-01-clean.png%5D%5D",
           "mutable": true,
           "command": false,
