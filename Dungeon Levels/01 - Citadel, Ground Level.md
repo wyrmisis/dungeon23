@@ -232,13 +232,13 @@ The child was trapped in the room, having never figured out the mechanism to ope
 > * Smell: Acerbic, stinging **chemical** odor; **ozone**.
 > * Hear: a vaporous **whistling**
 
-The door to this room is stuck. When the door is opened, torches and lanterns will burn a little brighter. 
+The door to this room is stuck. When the door is opened, torches and lanterns will flare up and immediately lose a turn of duration. 
 
 This room was a space for convalescing soldiers and support staff. Due to the tenuous connection elves hold with the Divine, study of the medical sciences is of utmost importance in elven culture, and every notable elven military fortification has at least one embedded physician and a few apothecaries.
 
 #### Alchemical Storage
 
-Various solvents, reagents, and other such materials are stored toward the back of this room. Characters with a background in brewing potions or poisons ought to be able to produce most simple concoctions (ex: a weak bloodstream poison, a potion of healing, a potion of cure disease), even if they aren't of appropriate level to craft magic items; there are enough supplies here for four attempts.
+Various solvents, reagents, and other such materials are stored toward the back of this room. Characters with a background in brewing potions or poisons ought to be able to produce most simple concoctions, even if they aren't of appropriate level to craft magic items.
 
 #### High Oxygen Zone
 
@@ -250,10 +250,10 @@ This process has broken down over the centuries, resulting in the clinic being h
 > * Triggers when an **open flame** is brought into the room
 > * 2d6 damage to all in the room from the initial jet of flame
 > * After a turn, chemicals in the room explode, dealing an additional 4d6 damage and blowing out the room's floor
+> * Can be deactivated from [[02 - Citadel, Lower Level]]
 
 > [!example]  Treasure
-> * Enough alchemical supplies for four attempts at crafting poisons or potions
-> * A grimoire with several pages torn out. It contains a number of first, second, and third level Magic User spells (`@TODO`)  
+> * Enough alchemical supplies for four attempts at crafting simple poisons or potions (ex: a weak bloodstream poison, a potion of healing, a potion of cure disease)
 
 ### 12. 
 ### 13. 
