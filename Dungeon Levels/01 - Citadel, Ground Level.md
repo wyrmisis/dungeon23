@@ -236,12 +236,24 @@ The door to this room is stuck. When the door is opened, torches and lanterns wi
 
 This room was a space for convalescing soldiers and support staff. Due to the tenuous connection elves hold with the Divine, study of the medical sciences is of utmost importance in elven culture, and every notable elven military fortification has at least one embedded physician and a few apothecaries.
 
+#### Alchemical Storage
+
+Various solvents, reagents, and other such materials are stored toward the back of this room. Characters with a background in brewing potions or poisons ought to be able to produce most simple concoctions (ex: a weak bloodstream poison, a potion of healing, a potion of cure disease), even if they aren't of appropriate level to craft magic items; there are enough supplies here for four attempts.
+
 #### High Oxygen Zone
 
 One of the last major medical breakthroughs before the Citadel's fall was that of assisted respiration. The Citadel features a device for this purpose, made up of a combination of an ever-flowing spring, ever-burning torch, and a mythril tank enchanted to compress breathable air.
 
-This process has broken down over the centuries, resulting in the clinic being hyper-oxygenated due to a crack in one of the air delivery pipes. If an open flame is brought close to this cracked pipe, the air will catch flame, dealing 2d6 damage to all present in the room, incinerating the contents of the room, and  igniting chemicals in the room. After a turn, these chemicals will explode, dealing an additional 4d6 damage and blowing out the floor of the room.
+This process has broken down over the centuries, resulting in the clinic being hyper-oxygenated due to a crack in one of the air delivery pipes behind the storage shelves at the back of the room. If an open flame is brought close to this cracked pipe, the air will catch flame.
 
+> [!danger] Trap: Oxygen jet
+> * Triggers when an **open flame** is brought into the room
+> * 2d6 damage to all in the room from the initial jet of flame
+> * After a turn, chemicals in the room explode, dealing an additional 4d6 damage and blowing out the room's floor
+
+> [!example]  Treasure
+> * Enough alchemical supplies for four attempts at crafting poisons or potions
+> * A grimoire with several pages torn out. It contains a number of first, second, and third level Magic User spells (`@TODO`)  
 
 ### 12. 
 ### 13. 
