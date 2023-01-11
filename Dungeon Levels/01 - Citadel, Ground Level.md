@@ -232,9 +232,16 @@ The child was trapped in the room, having never figured out the mechanism to ope
 > * Smell: Acerbic, stinging **chemical** odor; **ozone**.
 > * Hear: a vaporous **whistling**
 
+The door to this room is stuck. When the door is opened, torches and lanterns will burn a little brighter. 
+
 This room was a space for convalescing soldiers and support staff. Due to the tenuous connection elves hold with the Divine, study of the medical sciences is of utmost importance in elven culture, and every notable elven military fortification has at least one embedded physician and a few apothecaries.
 
-One of the last major medical breakthroughs before the Citadel's fall was that of forced respiration 
+#### High Oxygen Zone
+
+One of the last major medical breakthroughs before the Citadel's fall was that of assisted respiration. The Citadel features a device for this purpose, made up of a combination of an ever-flowing spring, ever-burning torch, and a mythril tank enchanted to compress breathable air.
+
+This process has broken down over the centuries, resulting in the clinic being hyper-oxygenated due to a crack in one of the air delivery pipes. If an open flame is brought close to this cracked pipe, the air will catch flame, dealing 2d6 damage to all present in the room, incinerating the contents of the room, and  igniting chemicals in the room. After a turn, these chemicals will explode, dealing an additional 4d6 damage and blowing out the floor of the room.
+
 
 ### 12. 
 ### 13. 
