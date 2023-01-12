@@ -30,7 +30,7 @@ attacks:
 ```statblock
 name: Briarsguard
 
-description: "A symbiotic union of bone and plant, these vessels bear a passing resemblance to smaller shambling mounds. These skeletal vessels "
+description: "A symbiotic union of bone and plant, these vessels bear a passing resemblance to smaller shambling mounds. These skeletal vessels are wrapped in thin, fibrous plants that form a lace similar to muscle tissue. This lace can be moved around the Briarsguard at will, allowing it to bear weapons and shields or attack with both of its vine-wrapped fists"
 
 ac: 5
 hd: 4
@@ -48,8 +48,8 @@ traits:
     - name: Vessel
       desc: "Can be temporarily inhabited by a wandering soul. Destroying it releases the soul."
       
-attackRoutine: "2x clubbed appendages or by weapon"
+attackRoutine: "2x vine-wrapped fists or by weapon"
 attacks:
-    - name: Clubbed appendages
+    - name: Vine-wrapped fist
       desc: "2d4"
 ```

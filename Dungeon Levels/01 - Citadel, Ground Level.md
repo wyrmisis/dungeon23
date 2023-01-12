@@ -258,7 +258,7 @@ This process has broken down over the centuries, resulting in the clinic being h
 ### 12. Fletcher and Bowyer's Workshop
 
 >[!tldr] Room Details
-> * See: splintered **remains** of wooden **furniture**; ancient steel **woodworking tools**; seasoned **hardwood logs**, recently harvested
+> * See: reasonably well-kept wooden **furniture**; ancient steel **woodworking tools**; seasoned **hardwood logs**, recently harvested; **torches** burning in wall sconces; a well-made **bed**
 > * Smell: A memory of **sawdust**.
 
 Archery is a prized skill in both fae and elven martial society, and talented bowyers and fletchers are afforded a great deal of respect.
@@ -266,8 +266,8 @@ Archery is a prized skill in both fae and elven martial society, and talented bo
 Even the military doctrine of the Court of Briars demands ranged superiority, and skeletal hands are not suited to fine craftsmanship. As such, the Lady-Commander has lured a talented human bowyer to the Citadel and and charmed him. He is guarded at all times. In his charmed state, he does not want to leave, and rather enjoys the safety and solitude of the Citadel. He is free to come and go, so long as his guards join him.
 
 > [!info] Inhabitants
-> * Jormun Waite, human craftsman
-> * 2d2 Briarsguard
+> * Horas Pelling, human craftsman
+> * 1d4+2 Briarsguard
 
 ### 13. 
 ### 14. 
