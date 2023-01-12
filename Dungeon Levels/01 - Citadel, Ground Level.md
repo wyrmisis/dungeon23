@@ -255,7 +255,18 @@ This process has broken down over the centuries, resulting in the clinic being h
 > [!example]  Treasure
 > * Enough alchemical supplies for four attempts at crafting simple poisons or potions (ex: a weak bloodstream poison, a potion of healing, a potion of cure disease)
 
-### 12. 
+### 12. Fletcher and Bowyer's Workshop
+
+>[!tldr] Room Details
+> * See: splintered **remains** of wooden **furniture**; ancient steel **woodworking tools**; seasoned **hardwood logs**, recently harvested
+> * Smell: A memory of **sawdust**.
+
+Archery is a prized skill in both fae and elven martial society, and talented bowyers and fletchers are afforded a great deal of respect.
+
+Even the military doctrine of the Court of Briars demands ranged superiority; as such, the Lady-Commander has lured and charmed a talented bowyer
+
+ 
+
 ### 13. 
 ### 14. 
 ### 15. 
