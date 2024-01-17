@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
+                "file": "Factions/The Court of Briars.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
+                "file": "Factions/The Court of Briars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
+                "file": "Factions/The Court of Briars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md"
+                "file": "Factions/The Court of Briars.md"
               }
             }
           }
@@ -168,6 +168,9 @@
   },
   "active": "d7ddd0750f636368",
   "lastOpenFiles": [
+    "Factions/The Doomsingers.md",
+    "Factions/The Blessed of Yngdala.md",
+    "Factions/The Claimant.md",
     "Dungeon Levels/01 - Citadel, Ground Level.md",
     "zzMoodboard/Inspirations, Themes, and Flavors.md",
     "zzMoodboard/Readme.md",
@@ -181,7 +184,6 @@
     "Dungeon Levels/00 - Citadel, Upper Level.md",
     "The Wider World/The Outpost.md",
     "The Wider World/The Weald.md",
-    "Factions/The Blessed of Yngdala.md",
     "Factions/The Court of Briars.md",
     "Bestiary/Readme.md",
     "Dungeon Levels/Style Guide.md",
