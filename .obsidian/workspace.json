@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzMoodboard/Readme.md",
-                "mode": "source",
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzMoodboard/Readme.md",
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzMoodboard/Readme.md",
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzMoodboard/Readme.md"
+                "file": "zzMoodboard/Inspirations, Themes, and Flavors.md"
               }
             }
           }
@@ -168,13 +168,16 @@
   },
   "active": "d7ddd0750f636368",
   "lastOpenFiles": [
+    "Dungeon Levels/01 - Citadel, Ground Level.md",
+    "zzMoodboard/Inspirations, Themes, and Flavors.md",
+    "zzMoodboard/Readme.md",
+    "zzMoodboard/Connective Tissue.md",
     "Dungeon Levels/Readme.md",
     "Dungeon Levels/08 - The Interface.md",
     "Dungeon Levels/05 - The Wormways.md",
     "Dungeon Levels/04 - Proving Ground, Tests of Magic.md",
     "Dungeon Levels/03 - Proving Ground, Tests of Might.md",
     "Dungeon Levels/02 - Citadel, Lower Level.md",
-    "Dungeon Levels/01 - Citadel, Ground Level.md",
     "Dungeon Levels/00 - Citadel, Upper Level.md",
     "The Wider World/The Outpost.md",
     "The Wider World/The Weald.md",
